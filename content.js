@@ -9,8 +9,18 @@
     scanPage();
   });
 
-  const observer = new MutationObserver(scanPage);
+  let scanScheduled = false;
+  const observer = new MutationObserver(scheduleScan);
   observer.observe(document.body, { childList: true, subtree: true });
+
+  function scheduleScan() {
+    if (scanScheduled) return;
+    scanScheduled = true;
+    setTimeout(() => {
+      scanScheduled = false;
+      scanPage();
+    }, 100);
+  }
 
   function scanPage() {
     const appId = getAppId(window.location.href);
@@ -58,6 +68,8 @@
 
   function updatePageBadge(badge, entry) {
     const state = entry ? (entry.available ? "is-available" : "is-unavailable") : "is-unknown";
+    if (badge.dataset.gfnState === state) return;
+    badge.dataset.gfnState = state;
     badge.className = `gfn-steam-badge is-page-badge ${state}`;
     badge.setAttribute("role", "status");
     if (entry?.available) {
@@ -70,7 +82,10 @@
   }
 
   function updateListIcon(icon, entry) {
-    icon.className = `gfn-steam-icon ${entry?.available ? "is-available" : "is-unknown"}`;
+    const state = entry?.available ? "is-available" : "is-unknown";
+    if (icon.dataset.gfnState === state) return;
+    icon.dataset.gfnState = state;
+    icon.className = `gfn-steam-icon ${state}`;
     icon.title = entry?.available ? "Disponibil in GeForce NOW" : "Disponibilitate GeForce NOW neconfirmata";
     icon.setAttribute("aria-label", icon.title);
     icon.textContent = "G";
