@@ -1,0 +1,9 @@
+// Inlocuieste sau completeaza acest obiect cu catalogul actualizat GeForce NOW.
+ globalThis.GFN_CATALOG = {
+  570: { available: true, title: "Dota 2" },
+  730: { available: true, title: "Counter-Strike 2" },
+  1172470: { available: true, title: "Apex Legends" },
+  1245620: { available: true, title: "ELDEN RING" },
+  1086940: { available: true, title: "Baldur's Gate 3" },
+  292030: { available: true, title: "The Witcher 3: Wild Hunt" }
+};
