@@ -15,7 +15,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Generate catalog
-        run: python scripts/update_catalog.py
+        run: |
+          set -euxo pipefail
+          python --version
+          test -f scripts/update_catalog.py
+          python -u scripts/update_catalog.py
       - name: Commit catalog changes
         run: |
           git config user.name "github-actions[bot]"
