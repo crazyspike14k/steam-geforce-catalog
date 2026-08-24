@@ -1,0 +1,97 @@
+.gfn-steam-badge {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  font: 600 13px/1.2 Arial, sans-serif;
+  gap: 8px;
+  justify-content: space-between;
+  margin: 0 0 14px;
+  max-width: 800px;
+  padding: 12px 14px;
+}
+
+.gfn-steam-badge.is-available {
+  background: #163d2b;
+  color: #9ef0bf;
+}
+
+.gfn-steam-badge.is-unavailable {
+  background: #3b2b1f;
+  color: #f3c18f;
+}
+
+.gfn-steam-badge.is-unknown {
+  background: #26363b;
+  color: #c2d5d8;
+}
+
+.gfn-dot {
+  background: currentColor;
+  border-radius: 50%;
+  display: inline-block;
+  height: 8px;
+  width: 8px;
+}
+
+.gfn-status-text {
+  flex: 1;
+}
+
+.gfn-open-button {
+  background: #75c9b8;
+  border-radius: 3px;
+  color: #10201f !important;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 8px 12px;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+.gfn-open-button:hover {
+  background: #a0eadb;
+}
+
+@media (max-width: 600px) {
+  .gfn-steam-badge {
+    align-items: stretch;
+    flex-wrap: wrap;
+  }
+
+  .gfn-status-text {
+    min-width: 180px;
+  }
+
+  .gfn-open-button {
+    margin-left: 16px;
+    text-align: center;
+    width: 100%;
+  }
+}
+
+.gfn-steam-image-link {
+  position: relative !important;
+}
+
+.gfn-steam-icon {
+  align-items: center;
+  background: #26363b;
+  border: 2px solid #d9f1ef;
+  border-radius: 50%;
+  box-shadow: 0 1px 4px #000;
+  color: #d9f1ef;
+  display: flex;
+  font: 700 11px/1 Arial, sans-serif;
+  height: 25px;
+  justify-content: center;
+  position: absolute;
+  right: 7px;
+  top: 7px;
+  width: 25px;
+  z-index: 5;
+}
+
+.gfn-steam-icon.is-available {
+  background: #1b9b5c;
+  color: #fff;
+}

@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Steam GeForce NOW Checker",
+  "version": "1.0.0",
+  "description": "Arata pe Steam daca un joc este disponibil in Nvidia GeForce NOW.",
+  "permissions": ["storage", "alarms"],
+  "host_permissions": ["https://store.steampowered.com/*", "https://raw.githubusercontent.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://store.steampowered.com/*"],
+      "js": ["catalog.js", "content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_title": "Steam GeForce NOW Checker",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
