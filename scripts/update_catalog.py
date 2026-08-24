@@ -4,6 +4,7 @@ import re
 import time
 from html.parser import HTMLParser
 from urllib.parse import quote, urljoin
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
 CLOUDBASE_URL = "https://cloudbase.gg/geforce-now-games/"
@@ -69,7 +70,13 @@ def main():
     for page_number in range(1, MAX_CLOUDBASE_PAGES + 1):
         page_url = CLOUDBASE_URL if page_number == 1 else f"{CLOUDBASE_URL}page/{page_number}/"
         page_parser = CloudbaseParser()
-        page_parser.feed(fetch(page_url))
+        try:
+            page_parser.feed(fetch(page_url))
+        except HTTPError as error:
+            if error.code == 404:
+                print(f"Reached end of Cloudbase catalog at page {page_number - 1}")
+                break
+            raise
         if not page_parser.games:
             break
         parser.games.update(page_parser.games)
