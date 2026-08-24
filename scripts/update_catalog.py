@@ -21,7 +21,7 @@ def fetch(url):
 class CloudbaseParser(HTMLParser):
     def __init__(self):
         super().__init__()
-        self.games = set()
+        self.games = {}
         self.href = None
         self.text = []
 
@@ -39,7 +39,7 @@ class CloudbaseParser(HTMLParser):
         if tag == "a" and self.href is not None:
             title = html.unescape(" ".join("".join(self.text).split())).strip()
             if title:
-                self.games.add(title)
+                self.games[title] = self.href
             self.href = None
             self.text = []
 
@@ -65,6 +65,20 @@ def find_steam_app(title):
     return None
 
 
+def find_steam_app_from_cloudbase(url):
+    try:
+        page = fetch(url)
+    except Exception as error:
+        print(f"Cloudbase detail failed for {url!r}: {error}")
+        return None
+
+    match = re.search(r"store\.steampowered\.com/app/(\d+)(?:/([^\"/?#]*))?", page)
+    if not match:
+        return None
+    title = match.group(2) or ""
+    return match.group(1), title.replace("_", " ")
+
+
 def main():
     parser = CloudbaseParser()
     for page_number in range(1, MAX_CLOUDBASE_PAGES + 1):
@@ -83,14 +97,16 @@ def main():
         print(f"Read Cloudbase page {page_number}: {len(page_parser.games)} games")
 
     catalog = {}
-    games = sorted(parser.games, key=str.casefold)
+    games = sorted(parser.games.items(), key=lambda item: item[0].casefold())
     print(f"Found {len(games)} Cloudbase games")
 
-    for index, title in enumerate(games, start=1):
+    for index, (title, cloudbase_url) in enumerate(games, start=1):
         match = find_steam_app(title)
+        if not match:
+            match = find_steam_app_from_cloudbase(cloudbase_url)
         if match:
             app_id, steam_title = match
-            catalog[app_id] = {"available": True, "title": steam_title}
+            catalog[app_id] = {"available": True, "title": steam_title or title}
         if index % 25 == 0:
             print(f"Processed {index}/{len(games)}")
         time.sleep(0.15)
