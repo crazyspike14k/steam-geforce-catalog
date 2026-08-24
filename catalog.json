@@ -1,8 +1,102 @@
 {
-  "570": {"available": true, "title": "Dota 2"},
-  "730": {"available": true, "title": "Counter-Strike 2"},
-  "1172470": {"available": true, "title": "Apex Legends"},
-  "1245620": {"available": true, "title": "ELDEN RING"},
-  "1086940": {"available": true, "title": "Baldur's Gate 3"},
-  "292030": {"available": true, "title": "The Witcher 3: Wild Hunt"}
+  "1086940": {
+    "available": true,
+    "title": "Baldur's Gate 3"
+  },
+  "1091500": {
+    "available": true,
+    "title": "Cyberpunk 2077"
+  },
+  "1172470": {
+    "available": true,
+    "title": "Apex Legends™"
+  },
+  "1196590": {
+    "available": true,
+    "title": "Resident Evil Village"
+  },
+  "1240440": {
+    "available": true,
+    "title": "Halo Infinite"
+  },
+  "1551360": {
+    "available": true,
+    "title": "Forza Horizon 5"
+  },
+  "1902960": {
+    "available": true,
+    "title": "Lost Records: Bloom & Rage"
+  },
+  "2208920": {
+    "available": true,
+    "title": "Assassin's Creed Valhalla"
+  },
+  "2246340": {
+    "available": true,
+    "title": "Monster Hunter Wilds"
+  },
+  "230410": {
+    "available": true,
+    "title": "Warframe"
+  },
+  "2344520": {
+    "available": true,
+    "title": "Diablo® IV"
+  },
+  "2357570": {
+    "available": true,
+    "title": "Overwatch®"
+  },
+  "2457220": {
+    "available": true,
+    "title": "Avowed"
+  },
+  "2507950": {
+    "available": true,
+    "title": "Delta Force"
+  },
+  "252490": {
+    "available": true,
+    "title": "Rust"
+  },
+  "2767030": {
+    "available": true,
+    "title": "Marvel Rivals"
+  },
+  "292030": {
+    "available": true,
+    "title": "The Witcher 3: Wild Hunt"
+  },
+  "3513350": {
+    "available": true,
+    "title": "Wuthering Waves"
+  },
+  "3595230": {
+    "available": true,
+    "title": "Call of Duty®: Modern Warfare® II"
+  },
+  "4162040": {
+    "available": true,
+    "title": "Zenless Zone Zero"
+  },
+  "440": {
+    "available": true,
+    "title": "Team Fortress 2"
+  },
+  "570": {
+    "available": true,
+    "title": "Dota 2"
+  },
+  "730": {
+    "available": true,
+    "title": "Counter-Strike 2"
+  },
+  "945360": {
+    "available": true,
+    "title": "Among Us"
+  },
+  "990080": {
+    "available": true,
+    "title": "Hogwarts Legacy"
+  }
 }
