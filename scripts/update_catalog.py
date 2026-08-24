@@ -96,8 +96,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-Footer
-© 2026 GitHub, Inc.
-Footer navigation
-Terms
-Pr
