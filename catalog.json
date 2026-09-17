@@ -191,10 +191,6 @@
     "available": true,
     "title": "Port Royale 4"
   },
-  "1025410": {
-    "available": true,
-    "title": "Metamorphosis"
-  },
   "1025440": {
     "available": true,
     "title": "Fantasy General II"
@@ -3427,6 +3423,10 @@
     "available": true,
     "title": "DEEXIT  Eternal Matters"
   },
+  "1396540": {
+    "available": true,
+    "title": "Twilight Wars"
+  },
   "1398740": {
     "available": true,
     "title": "The Chrono Jotter"
@@ -4327,10 +4327,6 @@
     "available": true,
     "title": "Disney Speedstorm"
   },
-  "1538460": {
-    "available": true,
-    "title": "Sword and Fairy 2"
-  },
   "1538900": {
     "available": true,
     "title": "Untamed Tactics"
@@ -4653,7 +4649,7 @@
   },
   "1581480": {
     "available": true,
-    "title": "HUMANITY"
+    "title": "Humanity"
   },
   "1581770": {
     "available": true,
@@ -12223,10 +12219,6 @@
     "available": true,
     "title": "Stick It!"
   },
-  "3096550": {
-    "available": true,
-    "title": "Twilight Wars"
-  },
   "3098700": {
     "available": true,
     "title": "Fullbright Presents TOILET SPIDERS"
@@ -13282,6 +13274,10 @@
   "346940": {
     "available": true,
     "title": "Shadowrun: Hong Kong"
+  },
+  "3470140": {
+    "available": true,
+    "title": "METAMORPHOSIS"
   },
   "347060": {
     "available": true,
