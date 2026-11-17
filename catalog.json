@@ -23,9 +23,17 @@
     "available": true,
     "title": "WRATH: Aeon of Ruin"
   },
+  "1002000": {
+    "available": true,
+    "title": "SPITLINGS"
+  },
   "1003090": {
     "available": true,
     "title": "Through the Darkest of Times"
+  },
+  "1003230": {
+    "available": true,
+    "title": "AIRA VR"
   },
   "1003890": {
     "available": true,
@@ -106,6 +114,10 @@
   "1014240": {
     "available": true,
     "title": "Starship Saboteur Prototype"
+  },
+  "10150": {
+    "available": true,
+    "title": "Prototype™"
   },
   "1016360": {
     "available": true,
@@ -199,10 +211,6 @@
     "available": true,
     "title": "Fantasy General II"
   },
-  "1026760": {
-    "available": true,
-    "title": "DepthQVR_AQUA"
-  },
   "1027250": {
     "available": true,
     "title": "The Alliance Alive HD Remastered"
@@ -238,10 +246,6 @@
   "1030300": {
     "available": true,
     "title": "Hollow Knight: Silksong"
-  },
-  "1030430": {
-    "available": true,
-    "title": "ARCADE"
   },
   "1031120": {
     "available": true,
@@ -322,10 +326,6 @@
   "1040420": {
     "available": true,
     "title": "Dreamscaper"
-  },
-  "1042010": {
-    "available": true,
-    "title": "OMEGA The Beginning  Episode 1"
   },
   "1042380": {
     "available": true,
@@ -607,6 +607,10 @@
     "available": true,
     "title": "Rogue Lords"
   },
+  "1070500": {
+    "available": true,
+    "title": "He Who Watches"
+  },
   "1071290": {
     "available": true,
     "title": "Wild West and Wizards"
@@ -639,6 +643,10 @@
     "available": true,
     "title": "Meteorfall: Krumit's Tale"
   },
+  "1073910": {
+    "available": true,
+    "title": "Before We Leave"
+  },
   "1074070": {
     "available": true,
     "title": "Dust to the End"
@@ -655,6 +663,10 @@
     "available": true,
     "title": "Oirbo"
   },
+  "1074830": {
+    "available": true,
+    "title": "Alcyone: The Last City"
+  },
   "1075550": {
     "available": true,
     "title": "Bite the Bullet"
@@ -662,10 +674,6 @@
   "1075740": {
     "available": true,
     "title": "Banners of Ruin"
-  },
-  "1075880": {
-    "available": true,
-    "title": "Elemental Brawl"
   },
   "1076120": {
     "available": true,
@@ -742,6 +750,10 @@
   "1083310": {
     "available": true,
     "title": "OUTBUDDIES DX"
+  },
+  "1083350": {
+    "available": true,
+    "title": "SRX"
   },
   "1084160": {
     "available": true,
@@ -927,10 +939,6 @@
     "available": true,
     "title": "Monster Train"
   },
-  "1103100": {
-    "available": true,
-    "title": "1000 days to escape"
-  },
   "1103730": {
     "available": true,
     "title": "Shing!"
@@ -955,10 +963,6 @@
     "available": true,
     "title": "OUTBRK"
   },
-  "1107370": {
-    "available": true,
-    "title": "Demoniaca: Everlasting Night"
-  },
   "1107750": {
     "available": true,
     "title": "Faraday Protocol"
@@ -978,10 +982,6 @@
   "1108590": {
     "available": true,
     "title": "Eldest Souls"
-  },
-  "1109300": {
-    "available": true,
-    "title": "Volt Patrol  Stealth Driving"
   },
   "1109680": {
     "available": true,
@@ -1055,10 +1055,6 @@
     "available": true,
     "title": "Yes, Your Grace"
   },
-  "1116050": {
-    "available": true,
-    "title": "Starminer"
-  },
   "1116170": {
     "available": true,
     "title": "CyberCorp"
@@ -1130,6 +1126,10 @@
   "1120810": {
     "available": true,
     "title": "Eastern Exorcist"
+  },
+  "1121320": {
+    "available": true,
+    "title": "Chains of Fury"
   },
   "1121780": {
     "available": true,
@@ -1343,6 +1343,10 @@
     "available": true,
     "title": "Out There: Oceans of Time"
   },
+  "1145330": {
+    "available": true,
+    "title": "Skeleton Crew"
+  },
   "1145630": {
     "available": true,
     "title": "BEAST: False Prophet"
@@ -1543,10 +1547,6 @@
     "available": true,
     "title": "Richman10"
   },
-  "1162570": {
-    "available": true,
-    "title": "The Protagonist: EX-1"
-  },
   "1162700": {
     "available": true,
     "title": "Midnight Protocol"
@@ -1570,10 +1570,6 @@
   "1165470": {
     "available": true,
     "title": "TombStar"
-  },
-  "1165610": {
-    "available": true,
-    "title": "Titeuf: Mega Party"
   },
   "1165990": {
     "available": true,
@@ -1599,10 +1595,6 @@
     "available": true,
     "title": "The Lamplighters League"
   },
-  "1167820": {
-    "available": true,
-    "title": "Airport Contraband"
-  },
   "1168880": {
     "available": true,
     "title": "MOLEK-SYNTEZ"
@@ -1610,6 +1602,10 @@
   "1169040": {
     "available": true,
     "title": "Necesse"
+  },
+  "1169520": {
+    "available": true,
+    "title": "Guild of Ascension"
   },
   "1169740": {
     "available": true,
@@ -1814,6 +1810,10 @@
   "1190460": {
     "available": true,
     "title": "DEATH STRANDING"
+  },
+  "1190910": {
+    "available": true,
+    "title": "Defend Them"
   },
   "1190970": {
     "available": true,
@@ -2051,6 +2051,10 @@
     "available": true,
     "title": "Big Hops"
   },
+  "1221730": {
+    "available": true,
+    "title": "Anti-Science Brigade"
+  },
   "1222300": {
     "available": true,
     "title": "Into The Flames"
@@ -2075,13 +2079,13 @@
     "available": true,
     "title": "Tennis World Tour 2"
   },
-  "1225370": {
-    "available": true,
-    "title": "Blast Rush Classic"
-  },
   "1225570": {
     "available": true,
     "title": "Unravel Two"
+  },
+  "1226260": {
+    "available": true,
+    "title": "DIY Store Simulator"
   },
   "1226510": {
     "available": true,
@@ -2098,6 +2102,10 @@
   "1227690": {
     "available": true,
     "title": "Severed Steel"
+  },
+  "1228410": {
+    "available": true,
+    "title": "WATCH"
   },
   "1228500": {
     "available": true,
@@ -2179,6 +2187,10 @@
     "available": true,
     "title": "Astronarch"
   },
+  "1237410": {
+    "available": true,
+    "title": "VE GSIM Crane Simulator"
+  },
   "1237950": {
     "available": true,
     "title": "STAR WARS™ Battlefront™ II"
@@ -2210,10 +2222,6 @@
   "1239320": {
     "available": true,
     "title": "Animal Shelter"
-  },
-  "1240370": {
-    "available": true,
-    "title": "Shell Corp"
   },
   "1240440": {
     "available": true,
@@ -2263,6 +2271,10 @@
     "available": true,
     "title": "Terraformers"
   },
+  "1245000": {
+    "available": true,
+    "title": "Poly Duels"
+  },
   "1245560": {
     "available": true,
     "title": "Roots of Pacha"
@@ -2307,13 +2319,13 @@
     "available": true,
     "title": "Bloons Monkey City"
   },
-  "1253190": {
-    "available": true,
-    "title": "Warhammer 40000 Dakka Squadron Flyboyz Edition Classic"
-  },
   "1253220": {
     "available": true,
     "title": "The Gold River Project"
+  },
+  "1253620": {
+    "available": true,
+    "title": "VE GSIM Tower Crane Simulator"
   },
   "1254320": {
     "available": true,
@@ -2407,6 +2419,10 @@
     "available": true,
     "title": "The Last Stand: Aftermath"
   },
+  "1267270": {
+    "available": true,
+    "title": "Yumeutsutsu Re:Idol"
+  },
   "1267540": {
     "available": true,
     "title": "WRC 9 FIA World Rally Championship"
@@ -2435,6 +2451,10 @@
     "available": true,
     "title": "Karma City Police"
   },
+  "1271690": {
+    "available": true,
+    "title": "Zombie Derby: Pixel Survival"
+  },
   "1271700": {
     "available": true,
     "title": "HOT WHEELS UNLEASHED™"
@@ -2454,6 +2474,10 @@
   "1272320": {
     "available": true,
     "title": "Diplomacy is Not an Option"
+  },
+  "1272450": {
+    "available": true,
+    "title": "Mahjong Deluxe"
   },
   "1272840": {
     "available": true,
@@ -2479,6 +2503,10 @@
     "available": true,
     "title": "Bloons TD Battles 2"
   },
+  "1276530": {
+    "available": true,
+    "title": "An Interesting Journey of Monsieur PAF"
+  },
   "1276660": {
     "available": true,
     "title": "Tinkertown"
@@ -2486,10 +2514,6 @@
   "1276790": {
     "available": true,
     "title": "Ruined King: A League of Legends Story™"
-  },
-  "1277130": {
-    "available": true,
-    "title": "Deathbound"
   },
   "1277400": {
     "available": true,
@@ -2510,6 +2534,10 @@
   "1278750": {
     "available": true,
     "title": "Lost At Sea"
+  },
+  "1278760": {
+    "available": true,
+    "title": "TinyShot"
   },
   "1279310": {
     "available": true,
@@ -2610,6 +2638,10 @@
   "1286220": {
     "available": true,
     "title": "Sea Power  Naval Combat in the Missile Age"
+  },
+  "1286320": {
+    "available": true,
+    "title": "Exoprimal"
   },
   "1286580": {
     "available": true,
@@ -2731,10 +2763,6 @@
     "available": true,
     "title": "Gothic 1 Remake"
   },
-  "1298480": {
-    "available": true,
-    "title": "Kardboard Kings: Card Shop Simulator"
-  },
   "1299290": {
     "available": true,
     "title": "Somber Echoes"
@@ -2787,6 +2815,10 @@
     "available": true,
     "title": "Diluvian Ultra"
   },
+  "1307150": {
+    "available": true,
+    "title": "MLF: Pro Catch"
+  },
   "1307660": {
     "available": true,
     "title": "Ravenbound"
@@ -2810,6 +2842,10 @@
   "1308880": {
     "available": true,
     "title": "FORECLOSED"
+  },
+  "1309140": {
+    "available": true,
+    "title": "Space Battle"
   },
   "1309620": {
     "available": true,
@@ -2843,10 +2879,6 @@
     "available": true,
     "title": "Epic Chef"
   },
-  "1313": {
-    "available": true,
-    "title": "SiN Gold"
-  },
   "1313140": {
     "available": true,
     "title": "Cult of the Lamb"
@@ -2862,10 +2894,6 @@
   "1314770": {
     "available": true,
     "title": "Three Kingdom: The Journey"
-  },
-  "1315390": {
-    "available": true,
-    "title": "Verse Surf"
   },
   "1315610": {
     "available": true,
@@ -2959,6 +2987,10 @@
     "available": true,
     "title": "Godsworn"
   },
+  "1329360": {
+    "available": true,
+    "title": "Lords of Exile"
+  },
   "1329500": {
     "available": true,
     "title": "SpiderHeck"
@@ -3043,10 +3075,6 @@
     "available": true,
     "title": "Death in the Water 2"
   },
-  "1339620": {
-    "available": true,
-    "title": "Action SuperCross"
-  },
   "1340480": {
     "available": true,
     "title": "The Cosmic Wheel Sisterhood"
@@ -3106,10 +3134,6 @@
   "1346010": {
     "available": true,
     "title": "RiMS Racing"
-  },
-  "1347540": {
-    "available": true,
-    "title": "Sky Fleet"
   },
   "1347970": {
     "available": true,
@@ -3211,10 +3235,6 @@
     "available": true,
     "title": "Warhammer 40,000: Darktide"
   },
-  "1361270": {
-    "available": true,
-    "title": "Flying Slime"
-  },
   "1361510": {
     "available": true,
     "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge"
@@ -3299,6 +3319,10 @@
     "available": true,
     "title": "Innchanted"
   },
+  "1370050": {
+    "available": true,
+    "title": "Trek to Yomi"
+  },
   "1370140": {
     "available": true,
     "title": "Kao the Kangaroo"
@@ -3331,10 +3355,6 @@
     "available": true,
     "title": "Fly Corp"
   },
-  "1373020": {
-    "available": true,
-    "title": "Foxs Holiday"
-  },
   "1373960": {
     "available": true,
     "title": "INDIKA"
@@ -3363,10 +3383,6 @@
     "available": true,
     "title": "Black Geyser: Couriers of Darkness"
   },
-  "1375750": {
-    "available": true,
-    "title": "Regions of Ruin: Runegate"
-  },
   "1376200": {
     "available": true,
     "title": "KARMA: The Dark World"
@@ -3382,10 +3398,6 @@
   "1378990": {
     "available": true,
     "title": "Crash Bandicoot™ 4: It’s About Time"
-  },
-  "1380060": {
-    "available": true,
-    "title": "Urban Trial Tricky™ Deluxe Edition"
   },
   "1380650": {
     "available": true,
@@ -3446,6 +3458,10 @@
   "1390380": {
     "available": true,
     "title": "Wolf's Gang"
+  },
+  "1390390": {
+    "available": true,
+    "title": "Shu's Misfortune"
   },
   "1390600": {
     "available": true,
@@ -3575,10 +3591,6 @@
     "available": true,
     "title": "Spacelines from the Far Out"
   },
-  "1412990": {
-    "available": true,
-    "title": "RAVE  Realtime Audio Visual Experience"
-  },
   "1413370": {
     "available": true,
     "title": "Power to the People"
@@ -3642,10 +3654,6 @@
   "1425000": {
     "available": true,
     "title": "Endless Alice"
-  },
-  "1425180": {
-    "available": true,
-    "title": "Vessels of Decay"
   },
   "1425730": {
     "available": true,
@@ -3735,10 +3743,6 @@
     "available": true,
     "title": "Stellar Monarch 2"
   },
-  "1438480": {
-    "available": true,
-    "title": "Saviorless"
-  },
   "1439300": {
     "available": true,
     "title": "NASCAR 21 Ignition"
@@ -3819,10 +3823,6 @@
     "available": true,
     "title": "Undisputed"
   },
-  "1451220": {
-    "available": true,
-    "title": "Heistfest"
-  },
   "1451410": {
     "available": true,
     "title": "Watch Your Ride  Bicycle Game"
@@ -3842,10 +3842,6 @@
   "1453900": {
     "available": true,
     "title": "Curse of the Sea Rats"
-  },
-  "1454050": {
-    "available": true,
-    "title": "Tour de France 2021"
   },
   "1454160": {
     "available": true,
@@ -3898,10 +3894,6 @@
   "1462810": {
     "available": true,
     "title": "WRC 10 FIA World Rally Championship"
-  },
-  "1462860": {
-    "available": true,
-    "title": "Dots"
   },
   "1463730": {
     "available": true,
@@ -3995,6 +3987,10 @@
     "available": true,
     "title": "Heavy Cargo  The Truck Simulator"
   },
+  "1475310": {
+    "available": true,
+    "title": "Factory Magnate"
+  },
   "1475810": {
     "available": true,
     "title": "Ghostwire: Tokyo"
@@ -4014,10 +4010,6 @@
   "1478500": {
     "available": true,
     "title": "Big Walk"
-  },
-  "1478970": {
-    "available": true,
-    "title": "AI Olympius"
   },
   "1479140": {
     "available": true,
@@ -4059,10 +4051,6 @@
     "available": true,
     "title": "Tempest Rising"
   },
-  "1487560": {
-    "available": true,
-    "title": "StarCrawlers Chimera"
-  },
   "1487630": {
     "available": true,
     "title": "Tracks of Thought"
@@ -4078,6 +4066,10 @@
   "1488490": {
     "available": true,
     "title": "Nivalis Nights"
+  },
+  "1488560": {
+    "available": true,
+    "title": "Football Simulator"
   },
   "1488620": {
     "available": true,
@@ -4098,10 +4090,6 @@
   "1489970": {
     "available": true,
     "title": "Highrise City"
-  },
-  "1490570": {
-    "available": true,
-    "title": "git gud"
   },
   "1491340": {
     "available": true,
@@ -4163,10 +4151,6 @@
     "available": true,
     "title": "Tom Clancy's Rainbow Six Lockdown™"
   },
-  "1501310": {
-    "available": true,
-    "title": "The Ranchers"
-  },
   "1501410": {
     "available": true,
     "title": "Dwarf Journey"
@@ -4219,10 +4203,6 @@
     "available": true,
     "title": "Assassin’s Creed"
   },
-  "1510440": {
-    "available": true,
-    "title": "Honeycomb: The World Beyond"
-  },
   "1511630": {
     "available": true,
     "title": "TrackDayR"
@@ -4254,14 +4234,6 @@
   "1515260": {
     "available": true,
     "title": "Circle Empires Tactics"
-  },
-  "1515320": {
-    "available": true,
-    "title": "Harvest Days: My Dream Farm"
-  },
-  "1516360": {
-    "available": true,
-    "title": "Red Galaxy"
   },
   "1516940": {
     "available": true,
@@ -4447,10 +4419,6 @@
     "available": true,
     "title": "MONARK"
   },
-  "1540100": {
-    "available": true,
-    "title": "Shy Eye Labyrinth: The Incredible Mystery"
-  },
   "1540350": {
     "available": true,
     "title": "The Fabulous Fear Machine"
@@ -4494,10 +4462,6 @@
   "1546080": {
     "available": true,
     "title": "Every Day We Fight"
-  },
-  "1546120": {
-    "available": true,
-    "title": "Void Explorer"
   },
   "1546570": {
     "available": true,
@@ -4639,13 +4603,13 @@
     "available": true,
     "title": "DREDGE"
   },
+  "1562930": {
+    "available": true,
+    "title": "World for Two"
+  },
   "1564220": {
     "available": true,
     "title": "QUBE 10th Anniversary"
-  },
-  "1565490": {
-    "available": true,
-    "title": "Train Station Tycoon"
   },
   "1566140": {
     "available": true,
@@ -4771,10 +4735,6 @@
     "available": true,
     "title": "Shadow Tactics Aikos Choice"
   },
-  "1579390": {
-    "available": true,
-    "title": "Spiral"
-  },
   "1580180": {
     "available": true,
     "title": "Gunbrella"
@@ -4819,6 +4779,10 @@
     "available": true,
     "title": "Aquarist  My First Job"
   },
+  "1584680": {
+    "available": true,
+    "title": "Medieval Machines Builder"
+  },
   "1584820": {
     "available": true,
     "title": "The Hero We Need"
@@ -4850,10 +4814,6 @@
   "1587130": {
     "available": true,
     "title": "Blood West"
-  },
-  "1587570": {
-    "available": true,
-    "title": "Completely Stretchy"
   },
   "1588550": {
     "available": true,
@@ -4959,10 +4919,6 @@
     "available": true,
     "title": "PlateUp!"
   },
-  "1599880": {
-    "available": true,
-    "title": "Cats in Time"
-  },
   "1600370": {
     "available": true,
     "title": "Not Tonight 2"
@@ -4995,6 +4951,10 @@
     "available": true,
     "title": "Soulstice"
   },
+  "1602620": {
+    "available": true,
+    "title": "Deadzoned"
+  },
   "1604030": {
     "available": true,
     "title": "V Rising"
@@ -5007,10 +4967,6 @@
     "available": true,
     "title": "Broken Arrow"
   },
-  "1604630": {
-    "available": true,
-    "title": "Kriophobia"
-  },
   "1605220": {
     "available": true,
     "title": "Dune: Spice Wars"
@@ -5022,6 +4978,10 @@
   "1605850": {
     "available": true,
     "title": "ZeroSpace"
+  },
+  "1606210": {
+    "available": true,
+    "title": "Heck Deck"
   },
   "1607240": {
     "available": true,
@@ -5355,6 +5315,10 @@
     "available": true,
     "title": "HITMAN World of Assassination"
   },
+  "1659150": {
+    "available": true,
+    "title": "SUPER 56"
+  },
   "1660080": {
     "available": true,
     "title": "Aloft"
@@ -5378,6 +5342,10 @@
   "1663640": {
     "available": true,
     "title": "The Last Oricru"
+  },
+  "1663850": {
+    "available": true,
+    "title": "REPLACED"
   },
   "1664220": {
     "available": true,
@@ -5459,6 +5427,10 @@
     "available": true,
     "title": "Train Yard Builder"
   },
+  "1675260": {
+    "available": true,
+    "title": "Among the Trolls"
+  },
   "1675620": {
     "available": true,
     "title": "Last Light"
@@ -5499,10 +5471,6 @@
     "available": true,
     "title": "RoboCop: Rogue City"
   },
-  "1682030": {
-    "available": true,
-    "title": "Dire Vengeance"
-  },
   "1682970": {
     "available": true,
     "title": "Uncrashed  FPV Drone Simulator"
@@ -5530,10 +5498,6 @@
   "1685750": {
     "available": true,
     "title": "Capcom Fighting Collection"
-  },
-  "1686230": {
-    "available": true,
-    "title": "Mayday: The Survival Island"
   },
   "1689390": {
     "available": true,
@@ -5619,10 +5583,6 @@
     "available": true,
     "title": "TEST RE"
   },
-  "1706510": {
-    "available": true,
-    "title": "Songs of Glimmerwick"
-  },
   "1707120": {
     "available": true,
     "title": "Cepheus Protocol Anthology Season 1"
@@ -5687,9 +5647,9 @@
     "available": true,
     "title": "Soul Stalker"
   },
-  "1714850": {
+  "1714510": {
     "available": true,
-    "title": "Twilight Wars Declassified"
+    "title": "Kusan: City of Wolves"
   },
   "1714900": {
     "available": true,
@@ -5879,6 +5839,10 @@
     "available": true,
     "title": "Starcom: Unknown Space"
   },
+  "1753500": {
+    "available": true,
+    "title": "Age of Barbarians Chronicles"
+  },
   "1755830": {
     "available": true,
     "title": "Astrea: Six-Sided Oracles"
@@ -6019,10 +5983,6 @@
     "available": true,
     "title": "Hell Clock"
   },
-  "1783280": {
-    "available": true,
-    "title": "Ghostlore"
-  },
   "1783560": {
     "available": true,
     "title": "The Last Caretaker"
@@ -6042,6 +6002,10 @@
   "1787480": {
     "available": true,
     "title": "Metro Simulator 2"
+  },
+  "1789090": {
+    "available": true,
+    "title": "Hello Goodboy"
   },
   "1789480": {
     "available": true,
@@ -6098,6 +6062,10 @@
   "1799840": {
     "available": true,
     "title": "Queen's Domain"
+  },
+  "1799930": {
+    "available": true,
+    "title": "Redout 2"
   },
   "1800940": {
     "available": true,
@@ -6159,10 +6127,6 @@
     "available": true,
     "title": "Lingo"
   },
-  "1814570": {
-    "available": true,
-    "title": "Transcendence Legacy  Voidswept"
-  },
   "1815530": {
     "available": true,
     "title": "Dungeon Defenders: Going Rogue"
@@ -6178,10 +6142,6 @@
   "1816650": {
     "available": true,
     "title": "Nelson and the Magic Cauldron: The Journey"
-  },
-  "1816690": {
-    "available": true,
-    "title": "Skew Pong"
   },
   "1816930": {
     "available": true,
@@ -6243,10 +6203,6 @@
     "available": true,
     "title": "Creature Keeper"
   },
-  "1827430": {
-    "available": true,
-    "title": "Yum Yum Cookstar"
-  },
   "1827690": {
     "available": true,
     "title": "CHEMISTS: Area of infection"
@@ -6278,10 +6234,6 @@
   "1833710": {
     "available": true,
     "title": "My Museum: Treasure Hunter"
-  },
-  "1834620": {
-    "available": true,
-    "title": "The Shore VR"
   },
   "1836730": {
     "available": true,
@@ -6323,6 +6275,10 @@
     "available": true,
     "title": "Akimbot"
   },
+  "1843710": {
+    "available": true,
+    "title": "PURGE  Three vs Blood"
+  },
   "1843940": {
     "available": true,
     "title": "Brigandine The Legend of Runersia"
@@ -6354,6 +6310,10 @@
   "1856190": {
     "available": true,
     "title": "Hello Engineer: Scrap Machines Constructor"
+  },
+  "1856660": {
+    "available": true,
+    "title": "Mr. Photographer"
   },
   "1857090": {
     "available": true,
@@ -6391,6 +6351,10 @@
     "available": true,
     "title": "Symphonia"
   },
+  "1866130": {
+    "available": true,
+    "title": "Morbid Metal"
+  },
   "1866420": {
     "available": true,
     "title": "La Pucelle: Ragnarok"
@@ -6398,10 +6362,6 @@
   "1866430": {
     "available": true,
     "title": "Rhapsody: A Musical Adventure"
-  },
-  "1866640": {
-    "available": true,
-    "title": "Kronos"
   },
   "1866980": {
     "available": true,
@@ -6526,10 +6486,6 @@
   "1897110": {
     "available": true,
     "title": "Edge of Sanity"
-  },
-  "1897480": {
-    "available": true,
-    "title": "Devil's Island"
   },
   "1897650": {
     "available": true,
@@ -6687,10 +6643,6 @@
     "available": true,
     "title": "Kamiwaza: Way of the Thief"
   },
-  "1925460": {
-    "available": true,
-    "title": "Truck Driver: The American Dream"
-  },
   "1925650": {
     "available": true,
     "title": "Stars Reach"
@@ -6758,10 +6710,6 @@
   "1932680": {
     "available": true,
     "title": "LunarLux"
-  },
-  "1933000": {
-    "available": true,
-    "title": "Luna Abyss"
   },
   "1933840": {
     "available": true,
@@ -6875,6 +6823,10 @@
     "available": true,
     "title": "Spider Slingers"
   },
+  "1953100": {
+    "available": true,
+    "title": "RAT MEMORY"
+  },
   "1953520": {
     "available": true,
     "title": "WRC Generations  The FIA WRC Official Game"
@@ -6891,6 +6843,10 @@
     "available": true,
     "title": "Kingdom Eighties"
   },
+  "1959440": {
+    "available": true,
+    "title": "Balance Knight"
+  },
   "1960270": {
     "available": true,
     "title": "Lootun"
@@ -6902,6 +6858,10 @@
   "1961850": {
     "available": true,
     "title": "Toroban"
+  },
+  "1962020": {
+    "available": true,
+    "title": "Space Tournament"
   },
   "1962663": {
     "available": true,
@@ -6927,10 +6887,6 @@
     "available": true,
     "title": "Strategic Command: American Civil War"
   },
-  "1966410": {
-    "available": true,
-    "title": "Aphelion"
-  },
   "1966420": {
     "available": true,
     "title": "Harmony: The Fall of Reverie"
@@ -6946,6 +6902,10 @@
   "1967630": {
     "available": true,
     "title": "Survival: Fountain of Youth"
+  },
+  "1969810": {
+    "available": true,
+    "title": "Enter the Chronosphere"
   },
   "1969820": {
     "available": true,
@@ -7147,9 +7107,9 @@
     "available": true,
     "title": "Naheulbeuk's Dungeon Master"
   },
-  "2005410": {
+  "2005690": {
     "available": true,
-    "title": "Advent Calendar: Puzzle Edition"
+    "title": "The 9th Charnel"
   },
   "200710": {
     "available": true,
@@ -7335,10 +7295,6 @@
     "available": true,
     "title": "Don't Die, Collect Loot"
   },
-  "2052650": {
-    "available": true,
-    "title": "Sword & Shield Simulator"
-  },
   "2052760": {
     "available": true,
     "title": "House Builder VR"
@@ -7375,6 +7331,10 @@
     "available": true,
     "title": "LONESTAR"
   },
+  "2057690": {
+    "available": true,
+    "title": "Schmaragon"
+  },
   "2057760": {
     "available": true,
     "title": "Esoteric Ebb"
@@ -7402,6 +7362,10 @@
   "2059530": {
     "available": true,
     "title": "Dawn of Defiance"
+  },
+  "2059570": {
+    "available": true,
+    "title": "Forgotlings"
   },
   "2059660": {
     "available": true,
@@ -7438,6 +7402,10 @@
   "2062690": {
     "available": true,
     "title": "Tour de France 2023"
+  },
+  "2063400": {
+    "available": true,
+    "title": "Descension"
   },
   "2063480": {
     "available": true,
@@ -7551,10 +7519,6 @@
     "available": true,
     "title": "Richman 11"
   },
-  "207490": {
-    "available": true,
-    "title": "Rayman® Origins"
-  },
   "2074920": {
     "available": true,
     "title": "The First Descendant"
@@ -7595,6 +7559,10 @@
     "available": true,
     "title": "Endless Space"
   },
+  "20820": {
+    "available": true,
+    "title": "Shatter"
+  },
   "2082270": {
     "available": true,
     "title": "Artifact"
@@ -7627,17 +7595,13 @@
     "available": true,
     "title": "RICE  Repetitive Indie Combat Experience"
   },
-  "2086280": {
-    "available": true,
-    "title": "Deus Novum"
-  },
   "208650": {
     "available": true,
     "title": "Batman™: Arkham Knight"
   },
-  "2086850": {
+  "2087030": {
     "available": true,
-    "title": "Guardians of Holme"
+    "title": "Shatterline"
   },
   "2087610": {
     "available": true,
@@ -7646,6 +7610,10 @@
   "2087910": {
     "available": true,
     "title": "SOULVARS"
+  },
+  "2088230": {
+    "available": true,
+    "title": "Ultimate Fishing® Simulator 3"
   },
   "2089500": {
     "available": true,
@@ -7691,10 +7659,6 @@
     "available": true,
     "title": "Road 96 Mile 0"
   },
-  "2095420": {
-    "available": true,
-    "title": "Bus Bound"
-  },
   "2096030": {
     "available": true,
     "title": "Snow Plowing Simulator"
@@ -7714,10 +7678,6 @@
   "2097230": {
     "available": true,
     "title": "Turnip Boy Robs a Bank"
-  },
-  "2097490": {
-    "available": true,
-    "title": "DESORDRE  A Puzzle Game Adventure"
   },
   "2098160": {
     "available": true,
@@ -7786,10 +7746,6 @@
   "2107180": {
     "available": true,
     "title": "The Hungry Fly"
-  },
-  "2107550": {
-    "available": true,
-    "title": "Valley Peaks"
   },
   "210770": {
     "available": true,
@@ -8019,6 +7975,10 @@
     "available": true,
     "title": "Voodolls"
   },
+  "2144910": {
+    "available": true,
+    "title": "Blueprints"
+  },
   "214550": {
     "available": true,
     "title": "Eets Munchies"
@@ -8047,6 +8007,10 @@
     "available": true,
     "title": "Half Minute Hero: Super Mega Neo Climax Ultimate Boy"
   },
+  "2151530": {
+    "available": true,
+    "title": "YOU ARE THE DINNER"
+  },
   "215280": {
     "available": true,
     "title": "Secret World Legends"
@@ -8054,6 +8018,10 @@
   "2153020": {
     "available": true,
     "title": "Pilfer: Story of Light"
+  },
+  "2154070": {
+    "available": true,
+    "title": "INDUSTRIA 2"
   },
   "2154240": {
     "available": true,
@@ -8066,6 +8034,10 @@
   "2157830": {
     "available": true,
     "title": "John Carpenter's Toxic Commando"
+  },
+  "2158160": {
+    "available": true,
+    "title": "Tales of Mathasia"
   },
   "215870": {
     "available": true,
@@ -8123,10 +8095,6 @@
     "available": true,
     "title": "Sniper Elite: Resistance"
   },
-  "2169930": {
-    "available": true,
-    "title": "RType Tactics I  II Cosmos"
-  },
   "217140": {
     "available": true,
     "title": "Rise of the Triad"
@@ -8135,6 +8103,10 @@
     "available": true,
     "title": "Worms Armageddon"
   },
+  "2172090": {
+    "available": true,
+    "title": "Battle Billiards"
+  },
   "2172370": {
     "available": true,
     "title": "Short Staffed"
@@ -8142,6 +8114,10 @@
   "2172580": {
     "available": true,
     "title": "Spirit Mancer"
+  },
+  "2174380": {
+    "available": true,
+    "title": "Call of the Elder Gods"
   },
   "2177150": {
     "available": true,
@@ -8171,6 +8147,10 @@
     "available": true,
     "title": "New Heights: Realistic Climbing and Bouldering"
   },
+  "2179490": {
+    "available": true,
+    "title": "Ravenous Horde"
+  },
   "2181610": {
     "available": true,
     "title": "Heretic's Fork"
@@ -8178,6 +8158,10 @@
   "218230": {
     "available": true,
     "title": "PlanetSide 2"
+  },
+  "2182680": {
+    "available": true,
+    "title": "Task Time"
   },
   "2183650": {
     "available": true,
@@ -8251,6 +8235,10 @@
     "available": true,
     "title": "Warhammer 40,000: Rogue Trader"
   },
+  "2186990": {
+    "available": true,
+    "title": "Fatekeeper"
+  },
   "2187220": {
     "available": true,
     "title": "Apollo Justice: Ace Attorney Trilogy"
@@ -8270,6 +8258,10 @@
   "2191500": {
     "available": true,
     "title": "Vampires: Bloodlord Rising"
+  },
+  "2191610": {
+    "available": true,
+    "title": "Orbital Cargo Division"
   },
   "219190": {
     "available": true,
@@ -8386,10 +8378,6 @@
   "2207470": {
     "available": true,
     "title": "Gods Against Machines"
-  },
-  "2208820": {
-    "available": true,
-    "title": "Grabitoons!"
   },
   "2208920": {
     "available": true,
@@ -8631,6 +8619,10 @@
     "available": true,
     "title": "Fallout: New Vegas"
   },
+  "2238040": {
+    "available": true,
+    "title": "Tiny Terry's Turbo Trip"
+  },
   "223810": {
     "available": true,
     "title": "Ys I & II Chronicles+"
@@ -8747,6 +8739,10 @@
     "available": true,
     "title": "Permafrost"
   },
+  "2255370": {
+    "available": true,
+    "title": "Directive 8020"
+  },
   "225540": {
     "available": true,
     "title": "Just Cause™ 3"
@@ -8779,10 +8775,6 @@
     "available": true,
     "title": "Alien Breed: Impact"
   },
-  "2262020": {
-    "available": true,
-    "title": "Exo Rally Championship"
-  },
   "2264340": {
     "available": true,
     "title": "TIEBREAK Official game of the ATP and WTA"
@@ -8806,10 +8798,6 @@
   "226960": {
     "available": true,
     "title": "Ironclad Tactics"
-  },
-  "227100": {
-    "available": true,
-    "title": "Sniper Elite: Nazi Zombie Army"
   },
   "2271030": {
     "available": true,
@@ -8899,10 +8887,6 @@
     "available": true,
     "title": "The Front"
   },
-  "2286280": {
-    "available": true,
-    "title": "Spacepunk Survival"
-  },
   "2287220": {
     "available": true,
     "title": "F1 Manager 2023"
@@ -8959,6 +8943,10 @@
     "available": true,
     "title": "StrangerZ"
   },
+  "2295060": {
+    "available": true,
+    "title": "Beyond These Stars"
+  },
   "2295970": {
     "available": true,
     "title": "UFO ROBOT GRENDIZER  The Feast of the Wolves"
@@ -8990,10 +8978,6 @@
   "2300120": {
     "available": true,
     "title": "Painkiller"
-  },
-  "2300160": {
-    "available": true,
-    "title": "Death From Above: A Ukrainian Drone Warstory"
   },
   "2300320": {
     "available": true,
@@ -9087,6 +9071,10 @@
     "available": true,
     "title": "TerraTech Worlds"
   },
+  "2315050": {
+    "available": true,
+    "title": "We Were Here Tomorrow"
+  },
   "2315400": {
     "available": true,
     "title": "Knights in Tight Spaces"
@@ -9122,10 +9110,6 @@
   "232090": {
     "available": true,
     "title": "Killing Floor 2"
-  },
-  "2320910": {
-    "available": true,
-    "title": "AMID EVIL VR"
   },
   "2321470": {
     "available": true,
@@ -9175,6 +9159,10 @@
     "available": true,
     "title": "Thunder Wolves"
   },
+  "2330110": {
+    "available": true,
+    "title": "Yerba Buena"
+  },
   "233230": {
     "available": true,
     "title": "Kairo"
@@ -9182,6 +9170,10 @@
   "233270": {
     "available": true,
     "title": "Far Cry 3 - Blood Dragon"
+  },
+  "2333000": {
+    "available": true,
+    "title": "Silver Pines"
   },
   "2333510": {
     "available": true,
@@ -9226,10 +9218,6 @@
   "233860": {
     "available": true,
     "title": "Kenshi"
-  },
-  "2339260": {
-    "available": true,
-    "title": "Voltorometer Recharged"
   },
   "2340980": {
     "available": true,
@@ -9355,10 +9343,6 @@
     "available": true,
     "title": "Kao the Kangaroo Mystery of the Volcano 2005 rerelease"
   },
-  "236010": {
-    "available": true,
-    "title": "Bloxitivity"
-  },
   "236110": {
     "available": true,
     "title": "Dungeon Defenders II"
@@ -9374,6 +9358,10 @@
   "236390": {
     "available": true,
     "title": "War Thunder"
+  },
+  "2364580": {
+    "available": true,
+    "title": "Titanium Court"
   },
   "2366500": {
     "available": true,
@@ -9419,6 +9407,10 @@
     "available": true,
     "title": "Nikoderiko"
   },
+  "2375260": {
+    "available": true,
+    "title": "Tattoo Tycoon"
+  },
   "2375530": {
     "available": true,
     "title": "Descenders Next"
@@ -9430,6 +9422,10 @@
   "2377280": {
     "available": true,
     "title": "Eriksholm: The Stolen Dream"
+  },
+  "2378160": {
+    "available": true,
+    "title": "AUTARKIS"
   },
   "237850": {
     "available": true,
@@ -9527,13 +9523,13 @@
     "available": true,
     "title": "Thief"
   },
+  "2391690": {
+    "available": true,
+    "title": "Blue Maiden"
+  },
   "239200": {
     "available": true,
     "title": "Amnesia: A Machine for Pigs"
-  },
-  "2392500": {
-    "available": true,
-    "title": "Ever 17  The Out of Infinity"
   },
   "2393160": {
     "available": true,
@@ -9619,6 +9615,10 @@
     "available": true,
     "title": "Egypt Frontiers"
   },
+  "2402680": {
+    "available": true,
+    "title": "Dimraeth"
+  },
   "2404880": {
     "available": true,
     "title": "Car Dealer Simulator"
@@ -9667,13 +9667,13 @@
     "available": true,
     "title": "Sherlock Holmes: Crimes and Punishments"
   },
-  "2412960": {
-    "available": true,
-    "title": "Breathedge 2"
-  },
   "2414270": {
     "available": true,
     "title": "Sunderfolk"
+  },
+  "2417470": {
+    "available": true,
+    "title": "Beastro"
   },
   "241760": {
     "available": true,
@@ -9867,6 +9867,10 @@
     "available": true,
     "title": "Tyr"
   },
+  "2445940": {
+    "available": true,
+    "title": "Games Advent Calendar  25 Days  25 Surprises"
+  },
   "2446600": {
     "available": true,
     "title": "Dark Deity 2"
@@ -9887,6 +9891,10 @@
     "available": true,
     "title": "Space Engineers"
   },
+  "2448610": {
+    "available": true,
+    "title": "Beast Slayer"
+  },
   "244890": {
     "available": true,
     "title": "VelocityUltra"
@@ -9898,6 +9906,10 @@
   "2451010": {
     "available": true,
     "title": "Project Hunt"
+  },
+  "2451680": {
+    "available": true,
+    "title": "SCP  The Mystery Man"
   },
   "245170": {
     "available": true,
@@ -9975,6 +9987,10 @@
     "available": true,
     "title": "Senuas Saga Hellblade II"
   },
+  "2463980": {
+    "available": true,
+    "title": "Werewolf The Apocalypse  Purgatory"
+  },
   "2464280": {
     "available": true,
     "title": "Tormented Souls 2"
@@ -10027,10 +10043,6 @@
     "available": true,
     "title": "Prelude Dark Pain"
   },
-  "247910": {
-    "available": true,
-    "title": "Sniper Elite: Nazi Zombie Army 2"
-  },
   "247950": {
     "available": true,
     "title": "Sacred 3"
@@ -10058,10 +10070,6 @@
   "2483190": {
     "available": true,
     "title": "Forza Horizon 6"
-  },
-  "2483730": {
-    "available": true,
-    "title": "Banner of Conquest"
   },
   "248610": {
     "available": true,
@@ -10095,6 +10103,10 @@
     "available": true,
     "title": "Visions of Mana"
   },
+  "2491490": {
+    "available": true,
+    "title": "Pit Panic"
+  },
   "2491700": {
     "available": true,
     "title": "Puropu Defense Squad"
@@ -10106,10 +10118,6 @@
   "2492040": {
     "available": true,
     "title": "FATAL FURY: City of the Wolves"
-  },
-  "2492050": {
-    "available": true,
-    "title": "Realm of the Dead"
   },
   "249230": {
     "available": true,
@@ -10135,9 +10143,9 @@
     "available": true,
     "title": "Mass Effect 2 2010"
   },
-  "2498910": {
+  "2498090": {
     "available": true,
-    "title": "Technofumer"
+    "title": "Trigger Tennis"
   },
   "249930": {
     "available": true,
@@ -10191,9 +10199,13 @@
     "available": true,
     "title": "Trolddom"
   },
-  "2506450": {
+  "2507610": {
     "available": true,
-    "title": "Guayota"
+    "title": "The Quintessential Quintuplets  Memories of a Quintessential Summer"
+  },
+  "2507620": {
+    "available": true,
+    "title": "The Quintessential Quintuplets  Five Memories Spent With You"
   },
   "2507950": {
     "available": true,
@@ -10202,10 +10214,6 @@
   "2507980": {
     "available": true,
     "title": "Meta Ghost: Breaking Show"
-  },
-  "2508290": {
-    "available": true,
-    "title": "Tax-Force"
   },
   "251060": {
     "available": true,
@@ -10222,10 +10230,6 @@
   "2510970": {
     "available": true,
     "title": "The Dream Office"
-  },
-  "2511310": {
-    "available": true,
-    "title": "Pro Cycling Manager 25"
   },
   "2511320": {
     "available": true,
@@ -10246,6 +10250,10 @@
   "251230": {
     "available": true,
     "title": "Livelock"
+  },
+  "2512450": {
+    "available": true,
+    "title": "SoulQuest"
   },
   "251270": {
     "available": true,
@@ -10270,10 +10278,6 @@
   "2516170": {
     "available": true,
     "title": "G.I. Joe: Wrath of Cobra"
-  },
-  "2516220": {
-    "available": true,
-    "title": "The Legend of Legacy HD Remastered"
   },
   "251710": {
     "available": true,
@@ -10303,10 +10307,6 @@
     "available": true,
     "title": "Legacy of Kain Soul Reaver 12 Remastered"
   },
-  "252170": {
-    "available": true,
-    "title": "Anomaly Warzone Earth Mobile Campaign"
-  },
   "252330": {
     "available": true,
     "title": "Slender: The Arrival"
@@ -10330,10 +10330,6 @@
   "2524700": {
     "available": true,
     "title": "Altarium"
-  },
-  "2524850": {
-    "available": true,
-    "title": "Denshattack!"
   },
   "252490": {
     "available": true,
@@ -10403,6 +10399,10 @@
     "available": true,
     "title": "Dusty Derby"
   },
+  "2537470": {
+    "available": true,
+    "title": "Vultures  Scavengers of Death"
+  },
   "2537590": {
     "available": true,
     "title": "Microsoft Flight Simulator 2024"
@@ -10427,6 +10427,10 @@
     "available": true,
     "title": "Enclave"
   },
+  "2540810": {
+    "available": true,
+    "title": "Nyran Survivors"
+  },
   "2541530": {
     "available": true,
     "title": "AETHUS"
@@ -10434,10 +10438,6 @@
   "2541780": {
     "available": true,
     "title": "Trident's Tale"
-  },
-  "2542020": {
-    "available": true,
-    "title": "Duskfade"
   },
   "2543510": {
     "available": true,
@@ -10454,10 +10454,6 @@
   "2545360": {
     "available": true,
     "title": "Lonely Mountains: Snow Riders"
-  },
-  "2545710": {
-    "available": true,
-    "title": "Tony Hawks Pro Skater 3  4"
   },
   "2546690": {
     "available": true,
@@ -10522,10 +10518,6 @@
   "2567770": {
     "available": true,
     "title": "BoneField: Bodycam Horror"
-  },
-  "2569760": {
-    "available": true,
-    "title": "The Mound: Omen of Cthulhu"
   },
   "257120": {
     "available": true,
@@ -10619,6 +10611,10 @@
     "available": true,
     "title": "Promise Mascot Agency"
   },
+  "2587130": {
+    "available": true,
+    "title": "Outbreak The Fedora Files: What Lydia Knows"
+  },
   "2587170": {
     "available": true,
     "title": "Railbreak"
@@ -10635,13 +10631,17 @@
     "available": true,
     "title": "King's Bounty: The Legend"
   },
-  "2591230": {
+  "25910": {
     "available": true,
-    "title": "MEAT-GRINDER"
+    "title": "Supreme Ruler 2020 Gold"
   },
   "2591280": {
     "available": true,
     "title": "F1® Manager 2024"
+  },
+  "2593780": {
+    "available": true,
+    "title": "ReLord  Tales of Adventure"
   },
   "259530": {
     "available": true,
@@ -10650,10 +10650,6 @@
   "2595700": {
     "available": true,
     "title": "IDILI"
-  },
-  "2595930": {
-    "available": true,
-    "title": "Jigsaw Advent Calendar"
   },
   "259600": {
     "available": true,
@@ -10699,6 +10695,10 @@
     "available": true,
     "title": "City Transport Simulator Tram"
   },
+  "2605790": {
+    "available": true,
+    "title": "Deep Rock Galactic: Rogue Core"
+  },
   "2607060": {
     "available": true,
     "title": "From Glory To Goo"
@@ -10730,10 +10730,6 @@
   "261570": {
     "available": true,
     "title": "Ori and the Blind Forest"
-  },
-  "2615810": {
-    "available": true,
-    "title": "One Night in Kawami"
   },
   "2616140": {
     "available": true,
@@ -10835,10 +10831,6 @@
     "available": true,
     "title": "SPACECOM"
   },
-  "2638890": {
-    "available": true,
-    "title": "Onimusha: Way of the Sword"
-  },
   "2639460": {
     "available": true,
     "title": "Snow Plowing Simulator  First Snow"
@@ -10858,10 +10850,6 @@
   "2643810": {
     "available": true,
     "title": "Betrayal Beach"
-  },
-  "2644100": {
-    "available": true,
-    "title": "Allogloom"
   },
   "2644240": {
     "available": true,
@@ -10979,6 +10967,10 @@
     "available": true,
     "title": "Indiana Jones and the Great Circle"
   },
+  "2678080": {
+    "available": true,
+    "title": "Tides of Tomorrow 🌊"
+  },
   "2678160": {
     "available": true,
     "title": "Pearls of Atlantis: The Cove"
@@ -10995,13 +10987,17 @@
     "available": true,
     "title": "Witchspire"
   },
+  "2679660": {
+    "available": true,
+    "title": "Traveler's Refrain"
+  },
   "2680010": {
     "available": true,
     "title": "The First Berserker: Khazan"
   },
-  "2682270": {
+  "2681030": {
     "available": true,
-    "title": "Pight"
+    "title": "Outbound"
   },
   "268240": {
     "available": true,
@@ -11075,10 +11071,6 @@
     "available": true,
     "title": "The Legend of Khiimori"
   },
-  "269850": {
-    "available": true,
-    "title": "Get Packed: Fully Loaded"
-  },
   "2698780": {
     "available": true,
     "title": "ContractVille"
@@ -11090,6 +11082,10 @@
   "269950": {
     "available": true,
     "title": "X-Plane 11"
+  },
+  "2702260": {
+    "available": true,
+    "title": "Map Map  A Game About Maps"
   },
   "2703100": {
     "available": true,
@@ -11131,6 +11127,10 @@
     "available": true,
     "title": "SubwaySim 2"
   },
+  "2707420": {
+    "available": true,
+    "title": "3D Watermelon Game"
+  },
   "2707930": {
     "available": true,
     "title": "Palia"
@@ -11163,6 +11163,10 @@
     "available": true,
     "title": "Magic of Runes Hidden Object Game"
   },
+  "2713000": {
+    "available": true,
+    "title": "Resonance: A Plague Tale Legacy"
+  },
   "2713550": {
     "available": true,
     "title": "Cursed Dawn"
@@ -11191,9 +11195,9 @@
     "available": true,
     "title": "Dreamscape"
   },
-  "272010": {
+  "2721300": {
     "available": true,
-    "title": "Aveyond 3-1: Lord of Twilight"
+    "title": "Suramon"
   },
   "2721530": {
     "available": true,
@@ -11222,6 +11226,10 @@
   "2733910": {
     "available": true,
     "title": "ESCAPE FROM HATA"
+  },
+  "2735000": {
+    "available": true,
+    "title": "Another Hardest Game: PATCH Origins"
   },
   "2737070": {
     "available": true,
@@ -11315,6 +11323,10 @@
     "available": true,
     "title": "No Sleep For Kaname Date  From AI THE SOMNIUM FILES"
   },
+  "2752350": {
+    "available": true,
+    "title": "Deep Crafter"
+  },
   "2753000": {
     "available": true,
     "title": "GOALS"
@@ -11338,10 +11350,6 @@
   "2754380": {
     "available": true,
     "title": "The Roottrees are Dead"
-  },
-  "2754490": {
-    "available": true,
-    "title": "Whispering Lane: Horror"
   },
   "275470": {
     "available": true,
@@ -11375,10 +11383,6 @@
     "available": true,
     "title": "Sandustry"
   },
-  "2764500": {
-    "available": true,
-    "title": "Magic Cauldron  Dungeons"
-  },
   "2764750": {
     "available": true,
     "title": "The Other Side"
@@ -11398,10 +11402,6 @@
   "276810": {
     "available": true,
     "title": "Mordheim: City of the Damned"
-  },
-  "2769240": {
-    "available": true,
-    "title": "Wax Heads"
   },
   "2769570": {
     "available": true,
@@ -11455,10 +11455,6 @@
     "available": true,
     "title": "SWORD OF JUSTICE"
   },
-  "2783370": {
-    "available": true,
-    "title": "Teeto"
-  },
   "278360": {
     "available": true,
     "title": "A Story About My Uncle"
@@ -11474,6 +11470,14 @@
   "2784620": {
     "available": true,
     "title": "ROGUE FLIGHT"
+  },
+  "278490": {
+    "available": true,
+    "title": "Aveyond 3-2: Gates of Night"
+  },
+  "278510": {
+    "available": true,
+    "title": "JUDGEMENT SILVERSWORD  Resurrection"
   },
   "278530": {
     "available": true,
@@ -11511,10 +11515,6 @@
     "available": true,
     "title": "IHF Handball Challenge 14"
   },
-  "279520": {
-    "available": true,
-    "title": "Rage Runner"
-  },
   "2795540": {
     "available": true,
     "title": "The Midnight Walkers"
@@ -11522,6 +11522,10 @@
   "2796130": {
     "available": true,
     "title": "KIBORG: Arena"
+  },
+  "2796390": {
+    "available": true,
+    "title": "Games Advent Calendar 2024"
   },
   "2799860": {
     "available": true,
@@ -11563,6 +11567,10 @@
     "available": true,
     "title": "Quantum Odyssey"
   },
+  "2802740": {
+    "available": true,
+    "title": "Heave Ho 2"
+  },
   "2804740": {
     "available": true,
     "title": "Aerial_Knight's We Never Yield"
@@ -11578,10 +11586,6 @@
   "2807150": {
     "available": true,
     "title": "Worshippers of Cthulhu"
-  },
-  "280720": {
-    "available": true,
-    "title": "Imagine Earth"
   },
   "280790": {
     "available": true,
@@ -11727,6 +11731,10 @@
     "available": true,
     "title": "Teeny Tiny Trains"
   },
+  "2825860": {
+    "available": true,
+    "title": "The Sinking City 2"
+  },
   "2825880": {
     "available": true,
     "title": "Death Howl"
@@ -11738,10 +11746,6 @@
   "2827200": {
     "available": true,
     "title": "MIMESIS"
-  },
-  "2827750": {
-    "available": true,
-    "title": "Fatal Claw"
   },
   "282800": {
     "available": true,
@@ -11755,17 +11759,9 @@
     "available": true,
     "title": "The Haunting of Joni Evers"
   },
-  "2828710": {
-    "available": true,
-    "title": "Valor Mortis"
-  },
   "282900": {
     "available": true,
     "title": "Hyperdimension Neptunia Re;Birth1"
-  },
-  "2831000": {
-    "available": true,
-    "title": "Faraway"
   },
   "283180": {
     "available": true,
@@ -11791,6 +11787,10 @@
     "available": true,
     "title": "Salt and Sanctuary"
   },
+  "2836460": {
+    "available": true,
+    "title": "Cozy Marbles"
+  },
   "2838720": {
     "available": true,
     "title": "Tile Cities 2"
@@ -11798,6 +11798,10 @@
   "2839280": {
     "available": true,
     "title": "Natsu-Mon: 20th Century Summer Kid"
+  },
+  "2840": {
+    "available": true,
+    "title": "X: Beyond the Frontier"
   },
   "2840770": {
     "available": true,
@@ -11871,17 +11875,9 @@
     "available": true,
     "title": "ZERO PARADES Directors Cut"
   },
-  "2864290": {
-    "available": true,
-    "title": "Aggelos 2"
-  },
   "2865670": {
     "available": true,
     "title": "JETRUNNER"
-  },
-  "2866640": {
-    "available": true,
-    "title": "A Death in the Red Light"
   },
   "2866670": {
     "available": true,
@@ -11951,6 +11947,10 @@
     "available": true,
     "title": "Moon Watch"
   },
+  "2878390": {
+    "available": true,
+    "title": "Conjurers"
+  },
   "2879840": {
     "available": true,
     "title": "Escape Simulator 2"
@@ -11974,10 +11974,6 @@
   "2885870": {
     "available": true,
     "title": "Strange Antiquities"
-  },
-  "2887350": {
-    "available": true,
-    "title": "Fluffy Sailors"
   },
   "2887580": {
     "available": true,
@@ -12095,6 +12091,10 @@
     "available": true,
     "title": "Brawlhalla"
   },
+  "2916260": {
+    "available": true,
+    "title": "Liminality"
+  },
   "2916430": {
     "available": true,
     "title": "Fast Food Simulator"
@@ -12122,10 +12122,6 @@
   "292030": {
     "available": true,
     "title": "The Witcher 3: Wild Hunt"
-  },
-  "2920510": {
-    "available": true,
-    "title": "Werewolf Party"
   },
   "2922410": {
     "available": true,
@@ -12219,10 +12215,6 @@
     "available": true,
     "title": "Tower Networking Inc."
   },
-  "2940150": {
-    "available": true,
-    "title": "Kill Cast"
-  },
   "294100": {
     "available": true,
     "title": "RimWorld"
@@ -12230,6 +12222,10 @@
   "2941360": {
     "available": true,
     "title": "Pie in the Sky"
+  },
+  "2941900": {
+    "available": true,
+    "title": "Valor & Blade"
   },
   "2942700": {
     "available": true,
@@ -12375,13 +12371,13 @@
     "available": true,
     "title": "ChromaGun 2: Dye Hard"
   },
+  "2982610": {
+    "available": true,
+    "title": "Stonemachia"
+  },
   "2983410": {
     "available": true,
     "title": "Xenopurge"
-  },
-  "2985880": {
-    "available": true,
-    "title": "Farming Camp"
   },
   "298600": {
     "available": true,
@@ -12447,10 +12443,6 @@
     "available": true,
     "title": "While Mom's Away"
   },
-  "3002130": {
-    "available": true,
-    "title": "Theos: Cities Of Myth"
-  },
   "300380": {
     "available": true,
     "title": "Road Redemption"
@@ -12511,6 +12503,10 @@
     "available": true,
     "title": "OCTOPATH TRAVELER 0"
   },
+  "301560": {
+    "available": true,
+    "title": "White Night"
+  },
   "301640": {
     "available": true,
     "title": "Zombie Army Trilogy"
@@ -12554,6 +12550,10 @@
   "3032830": {
     "available": true,
     "title": "Katanaut"
+  },
+  "3034660": {
+    "available": true,
+    "title": "Dunebound Tactics"
   },
   "3035330": {
     "available": true,
@@ -12627,10 +12627,6 @@
     "available": true,
     "title": "Hungry Horrors"
   },
-  "3049990": {
-    "available": true,
-    "title": "Phantom Brave: The Lost Hero"
-  },
   "305050": {
     "available": true,
     "title": "Outland"
@@ -12638,6 +12634,10 @@
   "3051470": {
     "available": true,
     "title": "Kaya's Prophecy"
+  },
+  "3053200": {
+    "available": true,
+    "title": "Cult of the Dragon"
   },
   "3054440": {
     "available": true,
@@ -12650,6 +12650,10 @@
   "305620": {
     "available": true,
     "title": "The Long Dark"
+  },
+  "3056840": {
+    "available": true,
+    "title": "A Bumpy Ride"
   },
   "3057670": {
     "available": true,
@@ -12666,6 +12670,10 @@
   "3058630": {
     "available": true,
     "title": "Assetto Corsa EVO"
+  },
+  "306000": {
+    "available": true,
+    "title": "Super Dungeon Bros"
   },
   "306020": {
     "available": true,
@@ -12695,6 +12703,10 @@
     "available": true,
     "title": "Obduction"
   },
+  "3068230": {
+    "available": true,
+    "title": "Mad Metal"
+  },
   "3070070": {
     "available": true,
     "title": "TCG Card Shop Simulator"
@@ -12711,6 +12723,10 @@
     "available": true,
     "title": "Aquatic Store Simulator"
   },
+  "307590": {
+    "available": true,
+    "title": "Penarium"
+  },
   "307600": {
     "available": true,
     "title": "Chainsaw Warrior: Lords of the Night"
@@ -12722,10 +12738,6 @@
   "308040": {
     "available": true,
     "title": "Back to Bed"
-  },
-  "3080560": {
-    "available": true,
-    "title": "Graphite"
   },
   "308060": {
     "available": true,
@@ -12751,6 +12763,10 @@
     "available": true,
     "title": "Skillshot City"
   },
+  "3090810": {
+    "available": true,
+    "title": "Truckful"
+  },
   "3093020": {
     "available": true,
     "title": "Circle Empires 2"
@@ -12762,6 +12778,10 @@
   "3093690": {
     "available": true,
     "title": "Replikant Chat"
+  },
+  "3094210": {
+    "available": true,
+    "title": "Nullstar: Solus"
   },
   "3095600": {
     "available": true,
@@ -12802,10 +12822,6 @@
   "3107090": {
     "available": true,
     "title": "Outbreak: Shades of Horror Chromatic Split"
-  },
-  "3107440": {
-    "available": true,
-    "title": "Gorble"
   },
   "310880": {
     "available": true,
@@ -12854,14 +12870,6 @@
   "311560": {
     "available": true,
     "title": "Assassin’s Creed® Rogue"
-  },
-  "3115850": {
-    "available": true,
-    "title": "Swordia"
-  },
-  "3116230": {
-    "available": true,
-    "title": "Abashed"
   },
   "3116640": {
     "available": true,
@@ -12939,10 +12947,6 @@
     "available": true,
     "title": "Nerd Simulator"
   },
-  "3128940": {
-    "available": true,
-    "title": "Rune Ark"
-  },
   "312980": {
     "available": true,
     "title": "Graviteam Tactics: Mius-Front"
@@ -12954,10 +12958,6 @@
   "313160": {
     "available": true,
     "title": "Farming Simulator 15"
-  },
-  "3131770": {
-    "available": true,
-    "title": "Arch Legends"
   },
   "3133650": {
     "available": true,
@@ -13051,14 +13051,6 @@
     "available": true,
     "title": "Tavern Legends"
   },
-  "3161270": {
-    "available": true,
-    "title": "Tlatoani: Aztec Cities"
-  },
-  "3162390": {
-    "available": true,
-    "title": "CoffeeShop Simulator"
-  },
   "3163560": {
     "available": true,
     "title": "Project Chameleon"
@@ -13087,17 +13079,9 @@
     "available": true,
     "title": "Infect Cam"
   },
-  "3172440": {
-    "available": true,
-    "title": "One Move Away"
-  },
   "3176060": {
     "available": true,
     "title": "Emissary Zero"
-  },
-  "317920": {
-    "available": true,
-    "title": "Hills Of Glory 3D"
   },
   "3179350": {
     "available": true,
@@ -13110,10 +13094,6 @@
   "318020": {
     "available": true,
     "title": "Act of Aggression  Reboot Edition"
-  },
-  "3180440": {
-    "available": true,
-    "title": "Terrorsepsis"
   },
   "3181650": {
     "available": true,
@@ -13179,9 +13159,9 @@
     "available": true,
     "title": "Car Mechanic Simulator 2015"
   },
-  "3204330": {
+  "3203170": {
     "available": true,
-    "title": "County of Fortune"
+    "title": "Spectacular Team: Assemble"
   },
   "3205380": {
     "available": true,
@@ -13230,6 +13210,10 @@
   "3219010": {
     "available": true,
     "title": "Fogpiercer"
+  },
+  "3219030": {
+    "available": true,
+    "title": "Planet Zoo 2"
   },
   "321960": {
     "available": true,
@@ -13347,6 +13331,10 @@
     "available": true,
     "title": "PANZER BALL"
   },
+  "325320": {
+    "available": true,
+    "title": "Mythos The Beginning  Directors Cut"
+  },
   "325610": {
     "available": true,
     "title": "Total War: ATTILA"
@@ -13378,6 +13366,10 @@
   "3265700": {
     "available": true,
     "title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
+  },
+  "3265840": {
+    "available": true,
+    "title": "BioEden"
   },
   "3266090": {
     "available": true,
@@ -13483,10 +13475,6 @@
     "available": true,
     "title": "Waterpark Simulator"
   },
-  "329380": {
-    "available": true,
-    "title": "Stealth Inc 2: A Game of Clones"
-  },
   "3294020": {
     "available": true,
     "title": "Contra Spem Spero"
@@ -13507,21 +13495,29 @@
     "available": true,
     "title": "KeeperRL"
   },
+  "3300050": {
+    "available": true,
+    "title": "System Breakdown"
+  },
   "330020": {
     "available": true,
     "title": "Children of Morta"
+  },
+  "330180": {
+    "available": true,
+    "title": "Pix the Cat"
   },
   "3301820": {
     "available": true,
     "title": "Class of Heroes 3 Remaster"
   },
-  "3302610": {
-    "available": true,
-    "title": "Hellgate Senigallia Remake"
-  },
   "3304110": {
     "available": true,
     "title": "868-BACK"
+  },
+  "3306400": {
+    "available": true,
+    "title": "Redemption of Liuyin"
   },
   "3306990": {
     "available": true,
@@ -13579,6 +13575,10 @@
     "available": true,
     "title": "Assassin’s Creed II"
   },
+  "3324650": {
+    "available": true,
+    "title": "Kats Trigger"
+  },
   "3325500": {
     "available": true,
     "title": "Worldwide Rush"
@@ -13586,10 +13586,6 @@
   "3326230": {
     "available": true,
     "title": "Hozy"
-  },
-  "3329220": {
-    "available": true,
-    "title": "Yet Another Climbing Game"
   },
   "3330930": {
     "available": true,
@@ -13602,10 +13598,6 @@
   "3333700": {
     "available": true,
     "title": "The Royal Writ"
-  },
-  "3335310": {
-    "available": true,
-    "title": "Remothered: Red Nun's Legacy"
   },
   "333640": {
     "available": true,
@@ -13695,10 +13687,6 @@
     "available": true,
     "title": "Goats on a Bridge"
   },
-  "3359940": {
-    "available": true,
-    "title": "Camino"
-  },
   "3361210": {
     "available": true,
     "title": "BROK  Natal Tail A New Christmas"
@@ -13743,6 +13731,10 @@
     "available": true,
     "title": "Look Outside"
   },
+  "3374640": {
+    "available": true,
+    "title": "Crown Of Hispania"
+  },
   "337680": {
     "available": true,
     "title": "Star Hammer: The Vanguard Prophecy"
@@ -13755,10 +13747,6 @@
     "available": true,
     "title": "Ratz Instagib"
   },
-  "3382820": {
-    "available": true,
-    "title": "Stealth Strike"
-  },
   "3385370": {
     "available": true,
     "title": "Maze Mice"
@@ -13766,6 +13754,10 @@
   "3386150": {
     "available": true,
     "title": "You're here again"
+  },
+  "3387370": {
+    "available": true,
+    "title": "Debt City"
   },
   "33900": {
     "available": true,
@@ -13807,10 +13799,6 @@
     "available": true,
     "title": "Overclocked: A History of Violence"
   },
-  "3399900": {
-    "available": true,
-    "title": "HellSlave II: Judgment of the Archon"
-  },
   "3400000": {
     "available": true,
     "title": "Cubic Odyssey"
@@ -13842,6 +13830,10 @@
   "3405340": {
     "available": true,
     "title": "Megabonk"
+  },
+  "3405660": {
+    "available": true,
+    "title": "Night is Coming  Wrath of the Woods"
   },
   "3407390": {
     "available": true,
@@ -13875,10 +13867,6 @@
     "available": true,
     "title": "The House Always Wins"
   },
-  "341940": {
-    "available": true,
-    "title": "Hatred"
-  },
   "3419520": {
     "available": true,
     "title": "Quarantine Zone: The Last Check"
@@ -13911,6 +13899,14 @@
     "available": true,
     "title": "The Mystery of the Druids"
   },
+  "3432800": {
+    "available": true,
+    "title": "Slingbot Survivors"
+  },
+  "3433110": {
+    "available": true,
+    "title": "Cinema Theater Tycoon"
+  },
   "3435610": {
     "available": true,
     "title": "Exark"
@@ -13922,10 +13918,6 @@
   "343860": {
     "available": true,
     "title": "Tacoma"
-  },
-  "3440070": {
-    "available": true,
-    "title": "Dinoblade"
   },
   "3440120": {
     "available": true,
@@ -13983,10 +13975,6 @@
     "available": true,
     "title": "Besiege"
   },
-  "3460540": {
-    "available": true,
-    "title": "Cardtographer"
-  },
   "346110": {
     "available": true,
     "title": "ARK: Survival Evolved"
@@ -14035,10 +14023,6 @@
     "available": true,
     "title": "Bridge Constructor Studio"
   },
-  "3474700": {
-    "available": true,
-    "title": "Plant Nursery Simulator"
-  },
   "3476660": {
     "available": true,
     "title": "Star Crafter"
@@ -14054,10 +14038,6 @@
   "34830": {
     "available": true,
     "title": "Sniper: Ghost Warrior"
-  },
-  "3483510": {
-    "available": true,
-    "title": "The Adventures of Elliot: The Millennium Tales"
   },
   "3484260": {
     "available": true,
@@ -14083,10 +14063,6 @@
     "available": true,
     "title": "Ame no Marginal -Rain Marginal-"
   },
-  "349240": {
-    "available": true,
-    "title": "Edolie"
-  },
   "349250": {
     "available": true,
     "title": "Copy Kitty"
@@ -14094,6 +14070,10 @@
   "349270": {
     "available": true,
     "title": "Mosaic"
+  },
+  "3492760": {
+    "available": true,
+    "title": "Engine Eternal"
   },
   "3494520": {
     "available": true,
@@ -14111,6 +14091,10 @@
     "available": true,
     "title": "Mai: Child of Ages"
   },
+  "3499790": {
+    "available": true,
+    "title": "Ashes of the Singularity II"
+  },
   "35000": {
     "available": true,
     "title": "Mini Ninjas"
@@ -14123,9 +14107,9 @@
     "available": true,
     "title": "Wolfenstein: The Old Blood"
   },
-  "3504050": {
+  "3502620": {
     "available": true,
-    "title": "Hillthorn"
+    "title": "DEMONS' NIGHT FEVER"
   },
   "3504780": {
     "available": true,
@@ -14143,9 +14127,9 @@
     "available": true,
     "title": "Giana Sisters 2D"
   },
-  "3508880": {
+  "351080": {
     "available": true,
-    "title": "Outpost Simulator"
+    "title": "The Corporate Machine"
   },
   "3513350": {
     "available": true,
@@ -14174,6 +14158,10 @@
   "352220": {
     "available": true,
     "title": "King of Dragon Pass"
+  },
+  "3523750": {
+    "available": true,
+    "title": "Down with the Ship"
   },
   "3525970": {
     "available": true,
@@ -14215,9 +14203,17 @@
     "available": true,
     "title": "Rad Rodgers: World One"
   },
+  "3536520": {
+    "available": true,
+    "title": "Warding Witches"
+  },
   "3537690": {
     "available": true,
     "title": " STICKER/BALL"
+  },
+  "353940": {
+    "available": true,
+    "title": "Aces of the Luftwaffe"
   },
   "354160": {
     "available": true,
@@ -14226,10 +14222,6 @@
   "354380": {
     "available": true,
     "title": "Assassin’s Creed® Chronicles: China"
-  },
-  "3544390": {
-    "available": true,
-    "title": "Air Hares"
   },
   "354730": {
     "available": true,
@@ -14287,13 +14279,13 @@
     "available": true,
     "title": "Sheltered"
   },
-  "3561380": {
-    "available": true,
-    "title": "Galactic Prospectors"
-  },
   "3564740": {
     "available": true,
     "title": "Where Winds Meet"
+  },
+  "3565480": {
+    "available": true,
+    "title": "Roadhouse Simulator"
   },
   "356570": {
     "available": true,
@@ -14323,6 +14315,10 @@
     "available": true,
     "title": "Oriental Empires"
   },
+  "3575650": {
+    "available": true,
+    "title": "Dark Adelita"
+  },
   "3576070": {
     "available": true,
     "title": "Sudden Attack Zero Point"
@@ -14335,10 +14331,6 @@
     "available": true,
     "title": "Shake it Co!"
   },
-  "3582440": {
-    "available": true,
-    "title": "DSS 2: War Industry"
-  },
   "3583970": {
     "available": true,
     "title": "Mycelium: The Silent Contract"
@@ -14350,6 +14342,14 @@
   "3585640": {
     "available": true,
     "title": "Lavender Field"
+  },
+  "3586760": {
+    "available": true,
+    "title": "Construction Crew"
+  },
+  "3590290": {
+    "available": true,
+    "title": "DIVE or DIE  Children of Rain"
   },
   "359100": {
     "available": true,
@@ -14395,6 +14395,10 @@
     "available": true,
     "title": "TerraTech Legion"
   },
+  "3597530": {
+    "available": true,
+    "title": "Royal's Gambit"
+  },
   "3598130": {
     "available": true,
     "title": "Big Rigs: Over the Road Racing"
@@ -14422,10 +14426,6 @@
   "3613050": {
     "available": true,
     "title": "Gravebound"
-  },
-  "3613910": {
-    "available": true,
-    "title": "Pipeline Crawl"
   },
   "3614130": {
     "available": true,
@@ -14479,9 +14479,9 @@
     "available": true,
     "title": "Battlefleet Gothic: Armada"
   },
-  "3639070": {
+  "3636930": {
     "available": true,
-    "title": "BLACKWOOD"
+    "title": "Professional Ship Simulator"
   },
   "3639120": {
     "available": true,
@@ -14503,6 +14503,10 @@
     "available": true,
     "title": "Clicker Heroes"
   },
+  "3640430": {
+    "available": true,
+    "title": "Worlds Upon The Wind"
+  },
   "3641000": {
     "available": true,
     "title": "The Incident at Galley House"
@@ -14515,6 +14519,10 @@
     "available": true,
     "title": "Roadside Research"
   },
+  "364350": {
+    "available": true,
+    "title": "The Apotheosis Project"
+  },
   "364360": {
     "available": true,
     "title": "Total War: WARHAMMER"
@@ -14522,10 +14530,6 @@
   "364390": {
     "available": true,
     "title": "Downfall"
-  },
-  "3644160": {
-    "available": true,
-    "title": "Monsters and Me 🧟‍♂️🤷‍♂️"
   },
   "3645890": {
     "available": true,
@@ -14554,10 +14558,6 @@
   "3654580": {
     "available": true,
     "title": "Toy Escape"
-  },
-  "3655040": {
-    "available": true,
-    "title": "ESCAPE Protocol: Online"
   },
   "3655390": {
     "available": true,
@@ -14611,17 +14611,13 @@
     "available": true,
     "title": "Noir Lords"
   },
-  "3669870": {
-    "available": true,
-    "title": "CONTROL Resonant"
-  },
-  "3670140": {
-    "available": true,
-    "title": "Godzilla x Kong: Titan Chasers"
-  },
   "3672400": {
     "available": true,
     "title": "Farever"
+  },
+  "3673360": {
+    "available": true,
+    "title": "wizbuilder!"
   },
   "367500": {
     "available": true,
@@ -14679,6 +14675,10 @@
     "available": true,
     "title": "Liuyins world"
   },
+  "3690670": {
+    "available": true,
+    "title": "The Aquarium"
+  },
   "3690760": {
     "available": true,
     "title": "Wild West Supermarket Simulator"
@@ -14686,14 +14686,6 @@
   "3691310": {
     "available": true,
     "title": "Wake Explorer"
-  },
-  "3691510": {
-    "available": true,
-    "title": "Bandit"
-  },
-  "3693650": {
-    "available": true,
-    "title": "Thrifty Business"
   },
   "369530": {
     "available": true,
@@ -14703,13 +14695,17 @@
     "available": true,
     "title": "Pizza Deathlivery"
   },
-  "3698490": {
+  "3698230": {
     "available": true,
-    "title": "ACRODRIFT: FPV Drone Simulator"
+    "title": "Grumpy Jack"
   },
   "37000": {
     "available": true,
     "title": "The Void"
+  },
+  "3701320": {
+    "available": true,
+    "title": "The Last Guild"
   },
   "3702380": {
     "available": true,
@@ -14755,6 +14751,10 @@
     "available": true,
     "title": "Evil Genius"
   },
+  "3722760": {
+    "available": true,
+    "title": "DOLL INC"
+  },
   "3729730": {
     "available": true,
     "title": "Underground: Chapter 1"
@@ -14766,6 +14766,10 @@
   "373420": {
     "available": true,
     "title": "Divinity: Original Sin"
+  },
+  "3737550": {
+    "available": true,
+    "title": "Spin Royale"
   },
   "373930": {
     "available": true,
@@ -14783,10 +14787,6 @@
     "available": true,
     "title": "Together: Moon Escape"
   },
-  "3748520": {
-    "available": true,
-    "title": "SPRAWL zero"
-  },
   "3751260": {
     "available": true,
     "title": "The Blood of Dawnwalker"
@@ -14794,10 +14794,6 @@
   "3751950": {
     "available": true,
     "title": "Assassin's Creed Black Flag Resynced"
-  },
-  "3752630": {
-    "available": true,
-    "title": "Our Town Hero"
   },
   "375320": {
     "available": true,
@@ -14814,6 +14810,10 @@
   "3756870": {
     "available": true,
     "title": "Project DeepWeb: Eternal Nightmare"
+  },
+  "3758950": {
+    "available": true,
+    "title": "Death at Fleming Manor"
   },
   "375900": {
     "available": true,
@@ -14851,9 +14851,9 @@
     "available": true,
     "title": "Fallout 4"
   },
-  "377190": {
+  "3774620": {
     "available": true,
-    "title": "Pale Echoes"
+    "title": "Gachamon"
   },
   "377530": {
     "available": true,
@@ -14870,6 +14870,10 @@
   "377880": {
     "available": true,
     "title": "Eternal Destiny"
+  },
+  "3779810": {
+    "available": true,
+    "title": "Color Connect"
   },
   "3780950": {
     "available": true,
@@ -14906,6 +14910,10 @@
   "379430": {
     "available": true,
     "title": "Kingdom Come: Deliverance"
+  },
+  "3794300": {
+    "available": true,
+    "title": "My Money Grows On Trees"
   },
   "379520": {
     "available": true,
@@ -14951,6 +14959,10 @@
     "available": true,
     "title": "Heaven Does Not Respond"
   },
+  "3817250": {
+    "available": true,
+    "title": "CICADAMATA\""
+  },
   "3819310": {
     "available": true,
     "title": "The Scarlet Harvest"
@@ -14983,17 +14995,13 @@
     "available": true,
     "title": "Relic Hunters Zero: Remix"
   },
+  "3825450": {
+    "available": true,
+    "title": "Wumbrik"
+  },
   "3825740": {
     "available": true,
     "title": "2 Bows 1 Arrow"
-  },
-  "3826170": {
-    "available": true,
-    "title": "Storm Horse Simulator"
-  },
-  "3826370": {
-    "available": true,
-    "title": "Headquarters: Cold War"
   },
   "3830": {
     "available": true,
@@ -15015,10 +15023,6 @@
     "available": true,
     "title": "Hue"
   },
-  "3835610": {
-    "available": true,
-    "title": "Enshrined: Sword of Fates"
-  },
   "383870": {
     "available": true,
     "title": "Firewatch"
@@ -15027,6 +15031,10 @@
     "available": true,
     "title": "Raging Justice"
   },
+  "3842900": {
+    "available": true,
+    "title": "Cascadou"
+  },
   "384310": {
     "available": true,
     "title": "Dead In Bermuda"
@@ -15034,6 +15042,10 @@
   "3843530": {
     "available": true,
     "title": "Forgotten Realms: Demon Stone"
+  },
+  "3843760": {
+    "available": true,
+    "title": "Ashes of the Damned: The Forgotten Ward"
   },
   "3846120": {
     "available": true,
@@ -15051,9 +15063,9 @@
     "available": true,
     "title": "Stranded In Time"
   },
-  "385190": {
+  "3855810": {
     "available": true,
-    "title": "Celestial Tear: Demon's Revenge"
+    "title": "Deep"
   },
   "3859030": {
     "available": true,
@@ -15070,10 +15082,6 @@
   "386080": {
     "available": true,
     "title": "Pharaonic"
-  },
-  "386140": {
-    "available": true,
-    "title": "After The End: The Harvest"
   },
   "386180": {
     "available": true,
@@ -15099,6 +15107,10 @@
     "available": true,
     "title": "Hyperdimension Neptunia U: Action Unleashed"
   },
+  "3874450": {
+    "available": true,
+    "title": "Sunset Summit"
+  },
   "387990": {
     "available": true,
     "title": "Scrap Mechanic"
@@ -15115,25 +15127,17 @@
     "available": true,
     "title": "Darksiders II"
   },
-  "388540": {
-    "available": true,
-    "title": "Dr. Bulbaceous"
-  },
   "3885590": {
     "available": true,
     "title": "The Coma 3: Bloodlines"
-  },
-  "3886200": {
-    "available": true,
-    "title": "BrokenLore: DON’T LIE"
   },
   "3891510": {
     "available": true,
     "title": "Dear me, I was..."
   },
-  "3896300": {
+  "389670": {
     "available": true,
-    "title": "Toll Booth Simulator"
+    "title": "Pacer"
   },
   "3898800": {
     "available": true,
@@ -15163,10 +15167,6 @@
     "available": true,
     "title": "Anarcute"
   },
-  "3907910": {
-    "available": true,
-    "title": "Cutout Village"
-  },
   "39110": {
     "available": true,
     "title": "SEASON OF MYSTERY: The Cherry Blossom Murders"
@@ -15178,6 +15178,10 @@
   "391220": {
     "available": true,
     "title": "Rise of the Tomb Raider™"
+  },
+  "3912430": {
+    "available": true,
+    "title": "Killer Island"
   },
   "3914860": {
     "available": true,
@@ -15206,6 +15210,10 @@
   "39190": {
     "available": true,
     "title": "Dungeon Siege"
+  },
+  "3919340": {
+    "available": true,
+    "title": "Eco Volunteer"
   },
   "3919360": {
     "available": true,
@@ -15251,17 +15259,21 @@
     "available": true,
     "title": "Squad"
   },
-  "3934250": {
-    "available": true,
-    "title": "Village in the Shade"
-  },
   "393460": {
     "available": true,
     "title": "Crazy Pixel Streaker"
   },
+  "3936520": {
+    "available": true,
+    "title": "Tour de France 2026"
+  },
   "3936530": {
     "available": true,
     "title": "Pro Cycling Manager 26"
+  },
+  "3936610": {
+    "available": true,
+    "title": "Monopoly: Star Wars™ Heroes vs. Villains"
   },
   "3937130": {
     "available": true,
@@ -15270,10 +15282,6 @@
   "393860": {
     "available": true,
     "title": "Smoots World Cup Tennis"
-  },
-  "3943450": {
-    "available": true,
-    "title": "Island Keeper"
   },
   "394360": {
     "available": true,
@@ -15310,6 +15318,10 @@
   "3951340": {
     "available": true,
     "title": "Tiny Bakery"
+  },
+  "3951680": {
+    "available": true,
+    "title": "The Floor Above"
   },
   "395250": {
     "available": true,
@@ -15467,6 +15479,10 @@
     "available": true,
     "title": "The Park®"
   },
+  "4022630": {
+    "available": true,
+    "title": "Ephemeral Art: Shapeweaver"
+  },
   "402390": {
     "available": true,
     "title": "Hyperdrive Massacre"
@@ -15507,9 +15523,17 @@
     "available": true,
     "title": "Elgvis Big Antlers Hunt"
   },
+  "4034890": {
+    "available": true,
+    "title": "Dropt"
+  },
   "403640": {
     "available": true,
     "title": "Dishonored 2"
+  },
+  "4037120": {
+    "available": true,
+    "title": "Twiggle's Grove"
   },
   "4037650": {
     "available": true,
@@ -15535,10 +15559,6 @@
     "available": true,
     "title": "手撕道祖，脚踩大乘（Tao Ancestor's Vanquisher）"
   },
-  "4044300": {
-    "available": true,
-    "title": "CorgiSpace"
-  },
   "404540": {
     "available": true,
     "title": "Nex Machina"
@@ -15551,13 +15571,13 @@
     "available": true,
     "title": "Hob"
   },
+  "4046870": {
+    "available": true,
+    "title": "DAMex DArk Matter Exodus"
+  },
   "4049320": {
     "available": true,
     "title": "ESC/APE"
-  },
-  "4049910": {
-    "available": true,
-    "title": "Nuclear Epoch"
   },
   "405290": {
     "available": true,
@@ -15574,6 +15594,10 @@
   "4055190": {
     "available": true,
     "title": "POSSESSOR"
+  },
+  "4057610": {
+    "available": true,
+    "title": "Camp Manager Simulator"
   },
   "4058120": {
     "available": true,
@@ -15599,10 +15623,6 @@
     "available": true,
     "title": "Dust Fleet"
   },
-  "4061800": {
-    "available": true,
-    "title": "A Game About Penguins"
-  },
   "406350": {
     "available": true,
     "title": "KartKraft™"
@@ -15610,6 +15630,10 @@
   "4065050": {
     "available": true,
     "title": "bygone snow"
+  },
+  "4066390": {
+    "available": true,
+    "title": "City States: Medieval"
   },
   "4069520": {
     "available": true,
@@ -15622,6 +15646,10 @@
   "407130": {
     "available": true,
     "title": "Tank Mechanic Simulator"
+  },
+  "4072280": {
+    "available": true,
+    "title": "Avatars"
   },
   "407530": {
     "available": true,
@@ -15655,10 +15683,6 @@
     "available": true,
     "title": "ChromaGun"
   },
-  "4086530": {
-    "available": true,
-    "title": "8AM: The Swimming Pool"
-  },
   "408760": {
     "available": true,
     "title": "Pro Cycling Manager 2016"
@@ -15679,10 +15703,6 @@
     "available": true,
     "title": "Microlandia"
   },
-  "4094350": {
-    "available": true,
-    "title": "Online: 404"
-  },
   "4094660": {
     "available": true,
     "title": "Rivage"
@@ -15695,13 +15715,13 @@
     "available": true,
     "title": "Stronghold"
   },
+  "4095490": {
+    "available": true,
+    "title": "What's the Password?"
+  },
   "40960": {
     "available": true,
     "title": "Stronghold 2"
-  },
-  "4096910": {
-    "available": true,
-    "title": "Void Reaver"
   },
   "40970": {
     "available": true,
@@ -15763,6 +15783,10 @@
     "available": true,
     "title": "Getsuei Gakuen -kou-"
   },
+  "4113940": {
+    "available": true,
+    "title": "Sovereign Tower"
+  },
   "4114610": {
     "available": true,
     "title": "Threshold of Judgment"
@@ -15775,13 +15799,17 @@
     "available": true,
     "title": "Metro Exodus"
   },
-  "4122830": {
+  "4121260": {
     "available": true,
-    "title": "8AM: The Warehouse"
+    "title": "Solid Void Art Nonograms"
   },
   "412490": {
     "available": true,
     "title": "Yrminsul"
+  },
+  "4126040": {
+    "available": true,
+    "title": "Aniimo"
   },
   "4127300": {
     "available": true,
@@ -15822,10 +15850,6 @@
   "4139340": {
     "available": true,
     "title": "Tri6: Infinite 2"
-  },
-  "4142020": {
-    "available": true,
-    "title": "Vision Quest: A New Ascent"
   },
   "414340": {
     "available": true,
@@ -15879,10 +15903,6 @@
     "available": true,
     "title": "MINOS: Home A-Labyrinth"
   },
-  "4164020": {
-    "available": true,
-    "title": "River City Saga: Journey to the West"
-  },
   "4164420": {
     "available": true,
     "title": "My Winter Car"
@@ -15906,6 +15926,14 @@
   "41740": {
     "available": true,
     "title": "Cargo! The Quest for Gravity"
+  },
+  "4174620": {
+    "available": true,
+    "title": "Market Moe"
+  },
+  "417480": {
+    "available": true,
+    "title": "Marcus Level"
   },
   "4174900": {
     "available": true,
@@ -15971,10 +15999,6 @@
     "available": true,
     "title": "Hamilton's Great Adventure"
   },
-  "4214610": {
-    "available": true,
-    "title": "100FRIENDS"
-  },
   "4214820": {
     "available": true,
     "title": "Game of Thrones Kingsroad"
@@ -15999,9 +16023,9 @@
     "available": true,
     "title": "Chrono CCG"
   },
-  "4222010": {
+  "4221950": {
     "available": true,
-    "title": "Super Cyber Exorcism"
+    "title": "THE KULKA"
   },
   "4224220": {
     "available": true,
@@ -16014,10 +16038,6 @@
   "423230": {
     "available": true,
     "title": "Furi"
-  },
-  "4233530": {
-    "available": true,
-    "title": "Legacy of Kain: Ascendance"
   },
   "423580": {
     "available": true,
@@ -16055,10 +16075,6 @@
     "available": true,
     "title": "Pratfall"
   },
-  "4247840": {
-    "available": true,
-    "title": "GHOSTED"
-  },
   "424840": {
     "available": true,
     "title": "Little Nightmares"
@@ -16079,17 +16095,17 @@
     "available": true,
     "title": "Shadwen"
   },
-  "4259100": {
+  "425410": {
     "available": true,
-    "title": "Insert Coin: Arcade Party"
-  },
-  "4260120": {
-    "available": true,
-    "title": "Whispers of the Gallows"
+    "title": "Road to Ballhalla"
   },
   "4262410": {
     "available": true,
     "title": "The Aurora Chronicles"
+  },
+  "4262620": {
+    "available": true,
+    "title": "The Alighieri Circle: Dante's Bloodline"
   },
   "4268470": {
     "available": true,
@@ -16102,10 +16118,6 @@
   "427100": {
     "available": true,
     "title": "Fernbus Simulator"
-  },
-  "4272370": {
-    "available": true,
-    "title": "Coal Duty"
   },
   "427290": {
     "available": true,
@@ -16139,6 +16151,10 @@
     "available": true,
     "title": "Industries of Titan"
   },
+  "4279630": {
+    "available": true,
+    "title": "Friendly Steps"
+  },
   "42810": {
     "available": true,
     "title": "For The Glory: A Europa Universalis Game"
@@ -16158,10 +16174,6 @@
   "4292050": {
     "available": true,
     "title": "Truck Mechanic Dangerous Paths  First Mile"
-  },
-  "4292190": {
-    "available": true,
-    "title": "Haunting of Mageburrow"
   },
   "429300": {
     "available": true,
@@ -16187,6 +16199,10 @@
     "available": true,
     "title": "Victoria I Complete"
   },
+  "4300660": {
+    "available": true,
+    "title": "Fire Pit: Throw Things Into The Fire"
+  },
   "430290": {
     "available": true,
     "title": "Shmups Skill Test"
@@ -16211,9 +16227,9 @@
     "available": true,
     "title": "Level 22 Garys Misadventures  2016 Edition"
   },
-  "431300": {
+  "4316390": {
     "available": true,
-    "title": "Classic Fun Collection 5 in 1"
+    "title": "Safehaven"
   },
   "4317690": {
     "available": true,
@@ -16234,14 +16250,6 @@
   "433100": {
     "available": true,
     "title": "The Town of Light"
-  },
-  "4332550": {
-    "available": true,
-    "title": "Heretic's Rapture"
-  },
-  "4332850": {
-    "available": true,
-    "title": "Global Business Tycoon"
   },
   "433340": {
     "available": true,
@@ -16267,6 +16275,10 @@
     "available": true,
     "title": "Aveyond 4: Shadow of the Mist"
   },
+  "4339280": {
+    "available": true,
+    "title": "ShipShaper Falconeer Chronicles"
+  },
   "434650": {
     "available": true,
     "title": "Lost Castle / 失落城堡"
@@ -16286,10 +16298,6 @@
   "435150": {
     "available": true,
     "title": "Divinity: Original Sin 2"
-  },
-  "435380": {
-    "available": true,
-    "title": "The Wake"
   },
   "435530": {
     "available": true,
@@ -16379,6 +16387,10 @@
     "available": true,
     "title": "Friday the 13th"
   },
+  "4389010": {
+    "available": true,
+    "title": "Caribbean Frontier"
+  },
   "4395980": {
     "available": true,
     "title": "Hat Together"
@@ -16391,13 +16403,13 @@
     "available": true,
     "title": "Team Fortress 2"
   },
+  "4402250": {
+    "available": true,
+    "title": "Disgaea Mayhem"
+  },
   "440900": {
     "available": true,
     "title": "Conan Exiles"
-  },
-  "4411720": {
-    "available": true,
-    "title": "Pro Basketball Manager 2027"
   },
   "441280": {
     "available": true,
@@ -16415,6 +16427,10 @@
     "available": true,
     "title": "Red Comrades 2: For the Great Justice. Reloaded"
   },
+  "4435340": {
+    "available": true,
+    "title": "Anymaker"
+  },
   "4435490": {
     "available": true,
     "title": "Call of Duty®: Modern Warfare® 4"
@@ -16422,14 +16438,6 @@
   "4436200": {
     "available": true,
     "title": "FluxWerks"
-  },
-  "443810": {
-    "available": true,
-    "title": "This Is the Police"
-  },
-  "4439670": {
-    "available": true,
-    "title": "GOBBLE"
   },
   "444090": {
     "available": true,
@@ -16443,10 +16451,6 @@
     "available": true,
     "title": "Bloons TD Battles"
   },
-  "4448490": {
-    "available": true,
-    "title": "Planet Harvester: Incremental Odyssey"
-  },
   "4450800": {
     "available": true,
     "title": "Idols of Ash"
@@ -16458,10 +16462,6 @@
   "445220": {
     "available": true,
     "title": "Avorion"
-  },
-  "4452620": {
-    "available": true,
-    "title": "Thieves and Gold"
   },
   "445310": {
     "available": true,
@@ -16523,6 +16523,10 @@
     "available": true,
     "title": "IS Defense"
   },
+  "4483900": {
+    "available": true,
+    "title": "The Tower Must Fall"
+  },
   "4483990": {
     "available": true,
     "title": "Megaris"
@@ -16530,6 +16534,10 @@
   "448510": {
     "available": true,
     "title": "Overcooked"
+  },
+  "4493130": {
+    "available": true,
+    "title": "Ski-E-O! Ski Resort Tycoon"
   },
   "449510": {
     "available": true,
@@ -16547,9 +16555,25 @@
     "available": true,
     "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl"
   },
+  "4500270": {
+    "available": true,
+    "title": "Global Protocol: New World Order"
+  },
+  "4508340": {
+    "available": true,
+    "title": "NTE: Neverness to Everness"
+  },
+  "4509300": {
+    "available": true,
+    "title": "Prinny Party: Going Overboard!"
+  },
   "451020": {
     "available": true,
     "title": "Battle Chasers: Nightwar"
+  },
+  "451100": {
+    "available": true,
+    "title": "Cubikolor"
   },
   "451570": {
     "available": true,
@@ -16611,6 +16635,10 @@
     "available": true,
     "title": "Days of War"
   },
+  "4558690": {
+    "available": true,
+    "title": "SkyChart: Airline Executive"
+  },
   "4558950": {
     "available": true,
     "title": "Virus X"
@@ -16618,10 +16646,6 @@
   "4560660": {
     "available": true,
     "title": "Eslabong"
-  },
-  "4567510": {
-    "available": true,
-    "title": "Potato Simulato Together"
   },
   "4570720": {
     "available": true,
@@ -16639,6 +16663,10 @@
     "available": true,
     "title": "Ultra Street Fighter® IV"
   },
+  "4581810": {
+    "available": true,
+    "title": "Scrap Yard Idle"
+  },
   "458430": {
     "available": true,
     "title": "Steel Seed"
@@ -16646,6 +16674,10 @@
   "458490": {
     "available": true,
     "title": "Who Must Die"
+  },
+  "458500": {
+    "available": true,
+    "title": "Babylon 2055 Pinball"
   },
   "458510": {
     "available": true,
@@ -16662,6 +16694,10 @@
   "459090": {
     "available": true,
     "title": "Masquerada: Songs and Shadows"
+  },
+  "4594370": {
+    "available": true,
+    "title": "Guys with Magnets"
   },
   "4596260": {
     "available": true,
@@ -16682,10 +16718,6 @@
   "461510": {
     "available": true,
     "title": "Tears of Avia"
-  },
-  "4618570": {
-    "available": true,
-    "title": "Booster Pack Heroes"
   },
   "461950": {
     "available": true,
@@ -16714,6 +16746,10 @@
   "463170": {
     "available": true,
     "title": "Jagged Alliance: Rage!"
+  },
+  "4633100": {
+    "available": true,
+    "title": "The Hidden Room"
   },
   "463530": {
     "available": true,
@@ -16747,6 +16783,10 @@
     "available": true,
     "title": "TRIZEAL Remix"
   },
+  "4651520": {
+    "available": true,
+    "title": "BLOODSHOT"
+  },
   "465200": {
     "available": true,
     "title": "Fury Unleashed"
@@ -16771,21 +16811,37 @@
     "available": true,
     "title": "Can't Drive This"
   },
-  "4674310": {
+  "4680510": {
     "available": true,
-    "title": "Airport Mania: First Flight"
+    "title": "Forest of Numbers"
+  },
+  "4684510": {
+    "available": true,
+    "title": "ARB: Alien Races Battle"
   },
   "4685380": {
     "available": true,
     "title": "Portucale Sword and Subtlety"
   },
+  "4685470": {
+    "available": true,
+    "title": "Tailbreak"
+  },
   "468670": {
     "available": true,
     "title": "Speed Brawl"
   },
+  "4688240": {
+    "available": true,
+    "title": "SHULERO  Dice Roguelike"
+  },
   "468920": {
     "available": true,
     "title": "Ultimate Fishing Simulator®"
+  },
+  "4692770": {
+    "available": true,
+    "title": "Extinction Cycle"
   },
   "469600": {
     "available": true,
@@ -16819,6 +16875,14 @@
     "available": true,
     "title": "Nine Parchments"
   },
+  "4731070": {
+    "available": true,
+    "title": "Kron Wars"
+  },
+  "4733610": {
+    "available": true,
+    "title": "Tilt It! Golf"
+  },
   "473690": {
     "available": true,
     "title": "Absolver"
@@ -16847,25 +16911,29 @@
     "available": true,
     "title": "Bombslinger"
   },
+  "477010": {
+    "available": true,
+    "title": "10 Minute Tower"
+  },
   "477160": {
     "available": true,
     "title": "Human Fall Flat"
-  },
-  "4775070": {
-    "available": true,
-    "title": "Eternal Onslaught"
   },
   "477740": {
     "available": true,
     "title": "Zero Escape: The Nonary Games"
   },
+  "4777670": {
+    "available": true,
+    "title": "Pliant"
+  },
   "477870": {
     "available": true,
     "title": "Yomawari: Night Alone"
   },
-  "4791980": {
+  "4792610": {
     "available": true,
-    "title": "SCREAM NOTE"
+    "title": "Robin Hood: Sherwood Valley"
   },
   "4796830": {
     "available": true,
@@ -16919,13 +16987,9 @@
     "available": true,
     "title": "X3: Farnham's Legacy"
   },
-  "4834760": {
+  "4834850": {
     "available": true,
-    "title": "Pool of Radiance: Ruins of Myth Drannor"
-  },
-  "483490": {
-    "available": true,
-    "title": "Circuitous ®"
+    "title": "Ecstatica II"
   },
   "484900": {
     "available": true,
@@ -17087,10 +17151,6 @@
     "available": true,
     "title": "Praey for the Gods"
   },
-  "4945850": {
-    "available": true,
-    "title": "Galumb"
-  },
   "494730": {
     "available": true,
     "title": "Galacticare"
@@ -17135,17 +17195,17 @@
     "available": true,
     "title": "Fighting Fantasy Legends"
   },
+  "4966730": {
+    "available": true,
+    "title": "Powder Park: Ski Resort Builder"
+  },
   "496730": {
     "available": true,
     "title": "Sorcerer King: Rivals"
   },
-  "496810": {
+  "4982590": {
     "available": true,
-    "title": "MegaTagmension Blanc  Neptune VS Zombies Neptunia"
-  },
-  "4968140": {
-    "available": true,
-    "title": "Lunch Break Dodgeball"
+    "title": "Train Plus Japan Drive Western Japan Trains! Rapid Service Edition"
   },
   "498850": {
     "available": true,
@@ -17155,9 +17215,9 @@
     "available": true,
     "title": "Order of the Sinking Star"
   },
-  "4992660": {
+  "4995030": {
     "available": true,
-    "title": "Scawy Game"
+    "title": "Folded Fables: Tidy Up The Dragon Hoard"
   },
   "499520": {
     "available": true,
@@ -17187,6 +17247,10 @@
     "available": true,
     "title": "What Remains of Edith Finch"
   },
+  "5018780": {
+    "available": true,
+    "title": "Artifact Extract"
+  },
   "5027520": {
     "available": true,
     "title": "Megastore: Tidy Up Together"
@@ -17211,21 +17275,29 @@
     "available": true,
     "title": "Manual Samuel  Anniversary Edition"
   },
+  "5041530": {
+    "available": true,
+    "title": "Put Your Toys Away Together!"
+  },
   "504210": {
     "available": true,
     "title": "SHENZHEN I/O"
   },
-  "5042170": {
-    "available": true,
-    "title": "Macchinato"
-  },
-  "5042870": {
-    "available": true,
-    "title": "Random Mix"
-  },
   "505230": {
     "available": true,
     "title": "Pathologic 2"
+  },
+  "5052300": {
+    "available": true,
+    "title": "Cloudgazer: A Game About Watching Clouds"
+  },
+  "5054650": {
+    "available": true,
+    "title": "Neon Breaker: Endless Arcade"
+  },
+  "5057770": {
+    "available": true,
+    "title": "StoneEra"
   },
   "5058280": {
     "available": true,
@@ -17242,6 +17314,10 @@
   "506260": {
     "available": true,
     "title": "Cladun Returns: This Is Sengoku!"
+  },
+  "506710": {
+    "available": true,
+    "title": "The Colony: New Haven Chronicles"
   },
   "506900": {
     "available": true,
@@ -17263,6 +17339,10 @@
     "available": true,
     "title": "Doc Apocalypse"
   },
+  "5103820": {
+    "available": true,
+    "title": "Veibyn's GunGame"
+  },
   "5103870": {
     "available": true,
     "title": "Anywhere RPG"
@@ -17270,10 +17350,6 @@
   "510390": {
     "available": true,
     "title": "Unknown Fate"
-  },
-  "5114030": {
-    "available": true,
-    "title": "Retro TV Tycoon"
   },
   "5116850": {
     "available": true,
@@ -17319,6 +17395,10 @@
     "available": true,
     "title": "Bus Simulator 18"
   },
+  "5155360": {
+    "available": true,
+    "title": "Hood Warfare 2"
+  },
   "515650": {
     "available": true,
     "title": "Straimium Immortaly"
@@ -17359,6 +17439,10 @@
     "available": true,
     "title": "Chess Ultra"
   },
+  "5185890": {
+    "available": true,
+    "title": "Zombies Aren't Real"
+  },
   "518790": {
     "available": true,
     "title": "theHunter: Call of the Wild™"
@@ -17386,6 +17470,10 @@
   "5211290": {
     "available": true,
     "title": "GroundInFlames"
+  },
+  "5213660": {
+    "available": true,
+    "title": "Gundrobe: an Incremental Gun Builder"
   },
   "521560": {
     "available": true,
@@ -17527,6 +17615,10 @@
     "available": true,
     "title": "Victoria 3"
   },
+  "5302870": {
+    "available": true,
+    "title": "The Coin Keeper Tidy up"
+  },
   "5303370": {
     "available": true,
     "title": "SUSPENCIL"
@@ -17623,10 +17715,6 @@
     "available": true,
     "title": "City Climber"
   },
-  "539270": {
-    "available": true,
-    "title": "Mahjong"
-  },
   "539280": {
     "available": true,
     "title": "Tetraminos"
@@ -17667,21 +17755,9 @@
     "available": true,
     "title": "Forgotton Anne"
   },
-  "5421740": {
-    "available": true,
-    "title": "The Endless Pit"
-  },
-  "543110": {
-    "available": true,
-    "title": "Head It!: VR Soccer Heading Game"
-  },
   "543260": {
     "available": true,
     "title": "Wonder Boy: The Dragon's Trap"
-  },
-  "5439370": {
-    "available": true,
-    "title": "Neverending Descent"
   },
   "544330": {
     "available": true,
@@ -17710,6 +17786,10 @@
   "545130": {
     "available": true,
     "title": "Pro Basketball Manager 2017"
+  },
+  "5458210": {
+    "available": true,
+    "title": "How They Built the Pyramids"
   },
   "546220": {
     "available": true,
@@ -17847,10 +17927,6 @@
     "available": true,
     "title": "Witch It"
   },
-  "561510": {
-    "available": true,
-    "title": "DragoDino"
-  },
   "562470": {
     "available": true,
     "title": "Empire of Angels IV"
@@ -17890,6 +17966,10 @@
   "566490": {
     "available": true,
     "title": "Keen: One Girl Army"
+  },
+  "566540": {
+    "available": true,
+    "title": "Labyrinth of Refrain: Coven of Dusk"
   },
   "567630": {
     "available": true,
@@ -18083,6 +18163,10 @@
     "available": true,
     "title": "Street Fighter 30th Anniversary Collection"
   },
+  "587070": {
+    "available": true,
+    "title": "PROTOThYPE   a love story"
+  },
   "587100": {
     "available": true,
     "title": "Ys SEVEN"
@@ -18171,6 +18255,10 @@
     "available": true,
     "title": "The Shattering"
   },
+  "596080": {
+    "available": true,
+    "title": "Embers of Mirrim"
+  },
   "597180": {
     "available": true,
     "title": "Old World"
@@ -18230,6 +18318,10 @@
   "601840": {
     "available": true,
     "title": "Griftlands"
+  },
+  "602120": {
+    "available": true,
+    "title": "Molemen Must Die!"
   },
   "602320": {
     "available": true,
@@ -18323,6 +18415,10 @@
     "available": true,
     "title": "Desperados III"
   },
+  "610460": {
+    "available": true,
+    "title": "Rise of Balloons"
+  },
   "6120": {
     "available": true,
     "title": "Shank"
@@ -18342,10 +18438,6 @@
   "613100": {
     "available": true,
     "title": "House Flipper"
-  },
-  "613590": {
-    "available": true,
-    "title": "Dungeon Of Zaar"
   },
   "614090": {
     "available": true,
@@ -18511,6 +18603,10 @@
     "available": true,
     "title": "Disco Elysium"
   },
+  "632950": {
+    "available": true,
+    "title": "SiN Reloaded"
+  },
   "633080": {
     "available": true,
     "title": "Relic Hunters Legend"
@@ -18603,10 +18699,6 @@
     "available": true,
     "title": "Keep in Mind Remastered"
   },
-  "643820": {
-    "available": true,
-    "title": "ShadowSide"
-  },
   "644480": {
     "available": true,
     "title": "Outbreak: The New Nightmare"
@@ -18626,10 +18718,6 @@
   "645630": {
     "available": true,
     "title": "Car Mechanic Simulator 2018"
-  },
-  "646530": {
-    "available": true,
-    "title": "Hop Step Sing kissxkissxkiss HQ Edition"
   },
   "646570": {
     "available": true,
@@ -18735,10 +18823,6 @@
     "available": true,
     "title": "Field of Glory II"
   },
-  "661050": {
-    "available": true,
-    "title": "Quadrablaze"
-  },
   "661920": {
     "available": true,
     "title": "Claybook"
@@ -18758,6 +18842,10 @@
   "663090": {
     "available": true,
     "title": "Granado Espada"
+  },
+  "663120": {
+    "available": true,
+    "title": "The Rosebud Condominium"
   },
   "663130": {
     "available": true,
@@ -18791,6 +18879,10 @@
     "available": true,
     "title": "ColorBlend FX: Desaturation"
   },
+  "670720": {
+    "available": true,
+    "title": "Stealthscape"
+  },
   "671440": {
     "available": true,
     "title": "Rise of Industry"
@@ -18818,10 +18910,6 @@
   "673950": {
     "available": true,
     "title": "Farm Together"
-  },
-  "674940": {
-    "available": true,
-    "title": "Stick Fight"
   },
   "675010": {
     "available": true,
@@ -18879,13 +18967,13 @@
     "available": true,
     "title": "Gone Viral"
   },
+  "680380": {
+    "available": true,
+    "title": "Night Call"
+  },
   "680390": {
     "available": true,
     "title": "Hidden Dragon: Legend"
-  },
-  "680400": {
-    "available": true,
-    "title": "Light Tracer VR  NONVR"
   },
   "680420": {
     "available": true,
@@ -18898,10 +18986,6 @@
   "681730": {
     "available": true,
     "title": "Nowhere Prophet"
-  },
-  "682570": {
-    "available": true,
-    "title": "SG/ZH: School Girl/Zombie Hunter"
   },
   "682990": {
     "available": true,
@@ -19055,10 +19139,6 @@
     "available": true,
     "title": "Smoke and Sacrifice"
   },
-  "695320": {
-    "available": true,
-    "title": "Jobous the alien R"
-  },
   "695330": {
     "available": true,
     "title": "SEASON: A letter to the future"
@@ -19094,10 +19174,6 @@
   "698670": {
     "available": true,
     "title": "Scorn"
-  },
-  "698870": {
-    "available": true,
-    "title": "Metaverse Keeper"
   },
   "699130": {
     "available": true,
@@ -19215,6 +19291,10 @@
     "available": true,
     "title": "Darksiders Genesis"
   },
+  "710960": {
+    "available": true,
+    "title": "Enceladus"
+  },
   "711130": {
     "available": true,
     "title": "God of Light Remastered"
@@ -19331,10 +19411,6 @@
     "available": true,
     "title": "Play With Me: Escape Room"
   },
-  "726710": {
-    "available": true,
-    "title": "RAZED"
-  },
   "726950": {
     "available": true,
     "title": "Dark Rose Valkyrie"
@@ -19431,6 +19507,10 @@
     "available": true,
     "title": "Around the World in 80 days Hidden Objects"
   },
+  "738210": {
+    "available": true,
+    "title": "Galactic Orbital Death Sport"
+  },
   "738270": {
     "available": true,
     "title": "Ciel Fledge: A Daughter Raising Simulator"
@@ -19507,10 +19587,6 @@
     "available": true,
     "title": "Devil and the Fairy"
   },
-  "744880": {
-    "available": true,
-    "title": "Monkeys Ahoy"
-  },
   "745920": {
     "available": true,
     "title": "Temtem"
@@ -19522,6 +19598,10 @@
   "746940": {
     "available": true,
     "title": "Nippon Marathon"
+  },
+  "747620": {
+    "available": true,
+    "title": "Joggernauts"
   },
   "747660": {
     "available": true,
@@ -19546,6 +19626,10 @@
   "750200": {
     "available": true,
     "title": "AWAY: The Survival Series"
+  },
+  "750610": {
+    "available": true,
+    "title": "Garenburg Woods"
   },
   "750920": {
     "available": true,
@@ -19590,10 +19674,6 @@
   "754850": {
     "available": true,
     "title": "The Spy Who Shrunk Me"
-  },
-  "756680": {
-    "available": true,
-    "title": "Angelo Skate Away"
   },
   "756800": {
     "available": true,
@@ -19735,6 +19815,10 @@
     "available": true,
     "title": "Airhead"
   },
+  "771870": {
+    "available": true,
+    "title": "Bullet Runner"
+  },
   "772480": {
     "available": true,
     "title": "Super Inefficient Golf"
@@ -19831,6 +19915,10 @@
     "available": true,
     "title": "Hexologic"
   },
+  "786180": {
+    "available": true,
+    "title": "ReHack"
+  },
   "787480": {
     "available": true,
     "title": "Phoenix Wright: Ace Attorney Trilogy"
@@ -19870,10 +19958,6 @@
   "790710": {
     "available": true,
     "title": "World of Warplanes"
-  },
-  "790800": {
-    "available": true,
-    "title": "Ascent Spirit"
   },
   "790850": {
     "available": true,
@@ -19955,6 +20039,10 @@
     "available": true,
     "title": "2236 A.D."
   },
+  "801800": {
+    "available": true,
+    "title": "Atomfall"
+  },
   "803050": {
     "available": true,
     "title": "Per Aspera"
@@ -19987,10 +20075,6 @@
     "available": true,
     "title": "Rad Rodgers  Radical Edition"
   },
-  "806180": {
-    "available": true,
-    "title": "Beyond The Heavens"
-  },
   "8080": {
     "available": true,
     "title": "Kane and Lynch: Dead Men™"
@@ -20022,10 +20106,6 @@
   "810040": {
     "available": true,
     "title": "Swords 'n Magic and Stuff"
-  },
-  "810340": {
-    "available": true,
-    "title": "World of Islands"
   },
   "810590": {
     "available": true,
@@ -20107,10 +20187,6 @@
     "available": true,
     "title": "SpellForce 3 Soul Harvest"
   },
-  "817710": {
-    "available": true,
-    "title": "vridniX"
-  },
   "818520": {
     "available": true,
     "title": "Builders of Egypt"
@@ -20175,10 +20251,6 @@
     "available": true,
     "title": "Skydrift Infinity"
   },
-  "827610": {
-    "available": true,
-    "title": "Dead End Job"
-  },
   "828740": {
     "available": true,
     "title": "Tales of the Neon Sea"
@@ -20227,6 +20299,10 @@
     "available": true,
     "title": "The Talos Principle 2"
   },
+  "836590": {
+    "available": true,
+    "title": "STAY COOL, KOBAYASHI-SAN!: A RIVER CITY RANSOM STORY"
+  },
   "836600": {
     "available": true,
     "title": "Alternate Jake Hunter: DAEDALUS The Awakening of Golden Jazz"
@@ -20262,6 +20338,10 @@
   "840260": {
     "available": true,
     "title": "Endless World Idle RPG"
+  },
+  "840380": {
+    "available": true,
+    "title": "Quible Sphere"
   },
   "840390": {
     "available": true,
@@ -20355,10 +20435,6 @@
     "available": true,
     "title": "Yooka-Laylee and the Impossible Lair"
   },
-  "848330": {
-    "available": true,
-    "title": "Pride Run"
-  },
   "848350": {
     "available": true,
     "title": "Katamari Damacy REROLL"
@@ -20414,6 +20490,10 @@
   "854120": {
     "available": true,
     "title": "Subterraneus"
+  },
+  "856370": {
+    "available": true,
+    "title": "OneWay Ticket"
   },
   "858210": {
     "available": true,
@@ -20519,6 +20599,10 @@
     "available": true,
     "title": "Oneiros"
   },
+  "869690": {
+    "available": true,
+    "title": "Cat Lady  The Card Game"
+  },
   "870780": {
     "available": true,
     "title": "CONTROL Ultimate Edition"
@@ -20558,6 +20642,10 @@
   "876160": {
     "available": true,
     "title": "Occupy White Walls"
+  },
+  "877010": {
+    "available": true,
+    "title": "Beyond Contact"
   },
   "878670": {
     "available": true,
@@ -20642,6 +20730,10 @@
   "890720": {
     "available": true,
     "title": "In Other Waters"
+  },
+  "890890": {
+    "available": true,
+    "title": "Green With Energy"
   },
   "891020": {
     "available": true,
@@ -20735,10 +20827,6 @@
     "available": true,
     "title": "Vambrace: Cold Soul"
   },
-  "905071": {
-    "available": true,
-    "title": "Exoprimal Deluxe Edition"
-  },
   "905450": {
     "available": true,
     "title": "NASCAR Heat 3"
@@ -20815,6 +20903,10 @@
     "available": true,
     "title": "Cat Quest II"
   },
+  "914750": {
+    "available": true,
+    "title": "Bee Simulator"
+  },
   "915490": {
     "available": true,
     "title": "Frontline Zed"
@@ -20854,6 +20946,10 @@
   "918570": {
     "available": true,
     "title": "Century: Age of Ashes"
+  },
+  "918780": {
+    "available": true,
+    "title": "Sector Sweep"
   },
   "918950": {
     "available": true,
@@ -20898,6 +20994,10 @@
   "924070": {
     "available": true,
     "title": "Arboria"
+  },
+  "924100": {
+    "available": true,
+    "title": "Helheim"
   },
   "924750": {
     "available": true,
@@ -21039,10 +21139,6 @@
     "available": true,
     "title": "The Last Friend"
   },
-  "944830": {
-    "available": true,
-    "title": "Swap Swap"
-  },
   "944920": {
     "available": true,
     "title": "Nanotale  Typing Chronicles"
@@ -21074,6 +21170,10 @@
   "948880": {
     "available": true,
     "title": "Arena Renovation"
+  },
+  "949200": {
+    "available": true,
+    "title": "Ambition: A Minuet in Power"
   },
   "949230": {
     "available": true,
@@ -21127,9 +21227,9 @@
     "available": true,
     "title": "Tourist Bus Simulator"
   },
-  "953760": {
+  "953870": {
     "available": true,
-    "title": "Gravity Spin"
+    "title": "Space Robinson: Hardcore Roguelike Action"
   },
   "954740": {
     "available": true,
@@ -21239,10 +21339,6 @@
     "available": true,
     "title": "Pacify"
   },
-  "967240": {
-    "available": true,
-    "title": "MONKEY KING: HERO IS BACK"
-  },
   "967460": {
     "available": true,
     "title": "Red Eclipse"
@@ -21294,10 +21390,6 @@
   "971690": {
     "available": true,
     "title": "Cake Bash"
-  },
-  "972280": {
-    "available": true,
-    "title": "Deep Space Shooter"
   },
   "972770": {
     "available": true,
